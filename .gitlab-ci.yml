@@ -1,0 +1,16 @@
+image: python:2.7.15
+
+pages:
+  stage: deploy
+  script:
+  - apk update && apk add make
+  - pip install -r requirements.txt
+  - git clone https://gitlab.com/rwev/mesa.git
+  - git clone --recurse-submodules https://gitlab.com/rwev/pelican-plugins.git
+  - invoke styles
+  - make publish
+  artifacts:
+    paths:
+    - public/
+  only:
+  - master
