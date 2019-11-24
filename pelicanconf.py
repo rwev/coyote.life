@@ -16,8 +16,8 @@ SITENAME = "coyote.life"
 
 SITEURL = "localhost:8000"
 
-USER_LOGO_URL = "assets/images/valknut-nord7.png"
-TAGLINE = "Wild wolf before domesticated dog."
+SITE_LOGO_URL = "assets/images/geo-yote.png"
+TAGLINE = "Live wild or die."
 
 DISPLAY_PAGES_ON_MENU = False
 # BUILD PROCESS
@@ -35,22 +35,17 @@ OUTPUT_PATH = "./public"  # for gitlab page
 TIMEZONE = "America/Denver"
 DEFAULT_LANG = "en"
 
-LINK_ITEMS = (
-    ("GitHub", "https://github.com/rwev"),
-    ("GitLab", "https://gitlab.com/rwev"),
-)
-
 # PLUGINS
 PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = [
     "filetime_from_git",
-    "autopages",
+    # "autopages",
     "similar_posts",
     "neighbors",
     "section_number",
-    #    "encrypt_content", TODO
-    "more_categories",
-    "gzip_cache",
+    # #    "encrypt_content", TODO
+     "more_categories",
+    # "gzip_cache",
     "photos",
     "summary",
     "clean_summary",

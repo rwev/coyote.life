@@ -35,55 +35,37 @@ And now, seven years after becoming a legal adult, I've begun to think independe
 
 In the words of King Solomon:
 
-<div class="quote">
-        <p class="content">
-                A tranquil heart (heart at peace) gives life to the body, but envy rots the bones.
-        </p> 
-        <p class="annotation">
-                Proverbs 14:30
-        </p>
-</div>
+> A tranquil heart (heart at peace) gives life to the body, but envy rots the bones. 
+    <p class="annotation">
+            Proverbs 14:30
+    </p>
 
 His way forward, how to escape envy, comparison, and jealousy, mentally and spiritually.
 
-<div class="quote">
-        <p class="content">
-                Better to have one handful with tranquility than two handfuls with toil and chasing after the wind.
-        </p>
-        <p class="annotation">
-                Ecclesiastes 4:6
-        </p>
-</div>
+> Better to have one handful with tranquility than two handfuls with toil and chasing after the wind.
+    <p class="annotation">
+            Ecclesiastes 4:6
+    </p>
 
 We will never achieve perfect satisfaction or fulfillment from our labor on this earth. After the Fall, that is our curse.
 
-<div class="quote">
-        <p class="content">
-                ... all toil (work, labor) and all achievement spring from one person's envy of another. This too (all things that are done under the sun) is meaningless, a chasing (pursuing) the wind.
-        </p>
-        <p class="annotation">
-                Ecclesiastes 4:4
-        </p>
-        <p class="content">
-                I have seen all the things that are done under the sun; all of them are meaningless, a chasing after the wind.
-        </p>
-        <p class="annotation">
-                Ecclesiastes 1:14
-        </p>
-</div>
+>  ... all toil (work, labor) and all achievement spring from one person's envy of another. This too (all things that are done under the sun) is meaningless, a chasing (pursuing) the wind.
+    <p class="annotation">
+            Ecclesiastes 4:4
+    </p>
+    I have seen all the things that are done under the sun; all of them are meaningless, a chasing after the wind.
+    <p class="annotation">
+            Ecclesiastes 1:14
+    </p>
 
 Words of the wisest, _and_ the richest man of all time.
 
 But only a fool would fold their hands and ruin themselves - by not attempting to compete and accomplish. This isn't about non-productivity or a justification of laziness. He continues:
 
-<div class="quote">
-        <p class="content">
-                Better to have one handful with tranquility than two handfuls with toil and chasing after the wind.
-        </p>
-        <p class="annotation">
-                Ecclesiastes 4:6
-        </p>
-</div>
+> Better to have one handful with tranquility than two handfuls with toil and chasing after the wind.
+    <p class="annotation">
+            Ecclesiastes 4:6
+    </p>
 
 Remove what makes you feel less than, causes comparison and discontentment, or stirs envy or jealousy, flee from it.
 
