@@ -7,7 +7,7 @@ import sys
 import os
 
 sys.path.append(os.curdir)
-from mesa import *
+from mesa.mesaconf import *
 
 # TEMPLATE
 OWNER = "rwev"
