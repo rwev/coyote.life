@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$/mesa" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pelican-plugins" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pelican-plugins/ace_editor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-plugins/ace_editor/static/ace-build" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pelican-plugins/backreftranslate" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pelican-plugins/better_code_samples" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pelican-plugins/bootstrapify" vcs="Git" />
@@ -19,6 +20,7 @@
     <mapping directory="$PROJECT_DIR$/pelican-plugins/lightbox" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pelican-plugins/loadcsv" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pelican-plugins/md-metayaml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-plugins/md-metayaml/markdown_metayaml" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pelican-plugins/multi_neighbors" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pelican-plugins/multimarkdown_reader" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pelican-plugins/org_pandoc_reader" vcs="Git" />
@@ -45,5 +47,11 @@
     <mapping directory="$PROJECT_DIR$/pelican-plugins/pelican_meetup_info" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pelican-plugins/pelican_vimeo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pelican-plugins/pelican_youtube" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-plugins/pelicanfly" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-plugins/pelicanthemes-generator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-plugins/pin_to_top" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-plugins/post_revision" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-plugins/replacer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-plugins/similar_posts" vcs="Git" />
   </component>
 </project>

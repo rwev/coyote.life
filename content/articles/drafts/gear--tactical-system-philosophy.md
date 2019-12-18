@@ -8,7 +8,7 @@ Heavily influence by [Nutnfancy](https://www.youtube.com/channel/UCbT5ssxEDZHNyz
 - SAWC
 -
 
-5.56x45mm caliber - adequate range and firepower, _lightweight_ ammunition.
+5.56x45mm NATO caliber - adequate range and firepower, _lightweight_ ammunition.
 
 System designed for simplicity: I want less stuff to thing about, to manage, to maintain, to carry accessories (e.g. batteries) for,
 to lose, to carry. 
