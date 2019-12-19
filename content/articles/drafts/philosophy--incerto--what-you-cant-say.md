@@ -1,3 +1,6 @@
+Title: What You Can't Say
+Category: philosophy/incerto
+Tags: work,money,wealth,technology,capitalism,democracy,markets,economics,sitg
 
 ## What You Can't Say
 Essay #3 in the collection.
@@ -5,7 +8,6 @@ Essay #3 in the collection.
 Paul explains how just as there are fashions in clothing, music, and other superficial products of the modern economy, there are_ moral_ fashions.
 
 > If you could travel back in a time machine, one thing would be true no matter where you went: you’d have to watch what you said.
-   
  
 Statements we consider as basic fact today were at some point in time heretical and blasphemous (examples to follow). In more cases than not, such revolutionary (looking from our time, not theirs) claims were made by, what we would consider today, nerds.
 

@@ -6,6 +6,16 @@ Tags: rural,life,outdoors,peace
 
 ## Living _in_ the world, not _of_ it
 
+## The Treasure of Humans 
+
+## Freedom from Materialism and Comparison
+
+## Extreme SITG
+
+## Raw, Real People
+
+
+
 ## Staying within Means
 
 ## True Freedom and Individuality - No Crushing Peer Pressure / Gov't

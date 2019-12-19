@@ -1,4 +1,4 @@
-Title: Wealth and Technology [I]
+Title: Wealth and Technology
 Category: philosophy/work
 Tags: work,money,wealth,technology,capitalism,democracy,markets,economics,sitg
 Status: published
@@ -29,7 +29,7 @@ The modern craftsmen is the computer programmer.
 
 The new brick is a line of code. The new electrical schematic is the program architecture.
 
-## Cogs in the Corporate Machines
+## Cogs & Corporate Wealth Machines
 
 Much of the wealth created today isn't done by freewheeling, individual entrepreneurs, but by large, hierarchical, often multinational organizations. 
 
@@ -81,7 +81,7 @@ People seem to have a different opinion about start-ups, as if they were a thing
 
 > There is a large random factor in the success of any company. So the guys you end up reading about in the papers are the ones who are very smart, totally dedicated, and win the lottery.
 
-# Getting Rich
+## Creating Wealth
 
 > Since it became possible to get rich by creating wealth, everyone who has done it has used essentially the same recipe: measurement and leverage, where measurement comes from working with a small group, and leverage from developing new techniques.
 
@@ -159,7 +159,7 @@ Users aren't a perfect measure of worth of a business. Monetization is the notor
     <br><br>
     The ball you need to keep your eye on here is the underlying principle that wealth is what people want. If you plan to get rich by creating wealth, you have to know what people want. So few businesses really pay attention to making customers happy.
 
-## Living Success Story
+## Success IRL
 
 Talk like this isn't just theoretical or academic. It works, because the Western society that we live in is a product of this way of thinking.
 

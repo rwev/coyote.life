@@ -58,7 +58,6 @@ AUTHOR_PAGE_PATH = os.path.join(AUTOPAGES_PATH, "authors")
 CATEGORY_PAGE_PATH = os.path.join(AUTOPAGES_PATH, "categories")
 TAG_PAGE_PATH = os.path.join(AUTOPAGES_PATH, "tags")
 
-
 # encrypt_content
 ENCRYPT_CONTENT = {
     "title_prefix": "[Encrypted]",
