@@ -1,6 +1,6 @@
 Title: ADV Motorcycle Packing List
 Category: reference/packing
-Tags: moto,4x4,backcountry,adventure,gear,adv,tools,maintenance
+Tags: list
 Gallery: {photo}motorcycle-tool-kit
 Status: published
 

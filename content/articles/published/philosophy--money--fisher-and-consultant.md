@@ -1,6 +1,6 @@
-Title: The Fisher and the Consultant
-Category: philosophy/money
-Tags: work,risk
+Title: The Fisher & the Consultant
+Category: philosophy/work
+Tags: wealth
 Status: published
 
 Originally from Latin culture.

@@ -1,6 +1,6 @@
 Title: Rules for the Consumer
 Category: philosophy/money
-Tags: anticonsumption,environmentalism,stewardship,versatility,diy
+Tags: anticonsumption,environmentalism
 Status: published
 
 In our consumer centric economy, it is hard to free ourselves from the powerful psychological influence of marketing, advertising, transactions, and envy. 

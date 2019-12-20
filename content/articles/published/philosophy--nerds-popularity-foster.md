@@ -1,6 +1,5 @@
 Title: On Nerds, Popularity, and Scarcity
 Category: philosophy/education
-Tags: economics,work,society,education
 Status: published
 
 I've read a lot of Paul Graham, and another one of his essays really struck a chord with me. Not to the tune of economics or technology or the wealth in between, but with the high school experience. 
@@ -23,7 +22,7 @@ They may even write it off as something that people "are just good at" as oppose
 
 > In general, people outside some very demanding field don’t realize the extent to which success depends on constant (though often unconscious) effort... Likewise, popular isn’t just something you are or you aren’t, but something you make yourself.
 
-#### Popularity and Persecution
+# Popularity and Persecution
 
 Not all bullying (specifically _persecution_ among children) is driven by popularity. Bullying will happen independently of the popularity complex.
 
@@ -45,7 +44,7 @@ What makes the system worse is the self-perpetuating nature of popularity. Once 
 
 Thus the system of popularity, where kids become popular by condoning the unpopularity of others, resembles a _zero-sum game_. We can't all win. We can't all be popular. To be popular means other kids aren't popular.
 
-#### Degeneration and Rebellion
+# Degeneration and Rebellion
 
 Hierarchies of real people can and do form in the real world around all sorts of criteria. Most hierarchies have a purpose and a logical structure to achieve that purpose. The most obvious example of this is in large corporations and the military.
 
@@ -55,7 +54,7 @@ But in high school there is no objective that the social hierarchy needs to acco
 
 Furthermore, in this hierarchy, it is _painful_ to be at the bottom of the hierarchy, because the _zero-sum_ popularity system that drives it. This isn't the case in most other hierarchies.
 
-##### Nerd Problems, By-Product of the Specialized and Globalized Economy
+## Nerd Problems, By-Product of the Specialized and Globalized Economy
 
 > The primary purpose [of schools] is to keep kids locked up in one place for a big chunk of the day so adults can get things done... in a specialized industrial society, it would be a disaster to have kids running around loose.
 
@@ -75,10 +74,9 @@ A higher education that kids cannot understand the full purpose of in their time
 
 > Teenage apprentices in the Renaissance were working dogs. Teenagers now are neurotic lapdogs. Their craziness is the craziness of the idle everywhere... Now adults have no immediate [productive] use for teenagers.
 
-#### Nerds Fit Better in the Real World
+# Nerds Fit Better in the Real World
 
 > While the nerds were being trained to get the right answers, the popular kids were being trained to please.
-</div>
 
 Nerds don't fit in the made-up social structures of American high schools. And it's not just that the real-world consists of a majority adults that make nerds fit better. It's that the real world is large, and participating in central social structures is optional. One can _choose_ to constrain themselves to cliques that resemble the high-school parallel society by being a meathead or a gossiping house wife. It's isolated bubbles that "degenerate into savagery."
 

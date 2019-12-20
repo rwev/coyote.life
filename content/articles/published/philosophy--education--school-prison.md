@@ -1,6 +1,5 @@
-Title: Of Schools and Prisons
+Title: Of Schools & Prisons
 Category: philosophy/education
-Tags: work,life,society
 Status: published
 
 In Paul Graham's essay [_Why Nerds Aren't Popular_](http://www.paulgraham.com/nerds.html), the comparison of schools (particularly public primary / high schools) with prisons is made on the following basis, as both 

@@ -1,6 +1,6 @@
 Title: Delma's Homecoming
 Category: skoolie
-Tags: adventure,self-reliance,independence
+Tags: adventure,independence,west
 Gallery: {photo}skoolie-initial
 Status: published
 
