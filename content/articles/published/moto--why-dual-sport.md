@@ -15,7 +15,7 @@ Only one bike to know, to fix, to maintain. One bike to know deeply, figure out 
 
 There's no vehicle on the planet as versatile. It can take you up the roughest mountain trails, which no side-by-side or jeep could conquer, yet still cruise at highway speed limits. 
 
-It is not the best at any _one_ thing. But it can do everything, and very cost effectively. This is what I love about dual sport. A reflection of my affinity for the versatile and adaptable as a type seven. 
+It is not the best at any _one_ thing. But it can do everything, and very cost effectively. This is what I love about dual sport - a reflection of my affinity for the versatile and adaptable.
 
 
 
