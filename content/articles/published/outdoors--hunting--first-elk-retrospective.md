@@ -10,7 +10,7 @@ New to big game hunting, I definitely bit off a large chunk by choosing to chase
 
 # Planning and Preparation
 
-The hunt really started after applying for two elk controlled hunts in May, and successfully drawing my second choice, hunt #2086, an antlerless hunt open December 10 - 31 in unit 37A. 
+The hunt really started after applying for two elk controlled hunts in May, and successfully drawing my second choice, hunt #20XX, an antlerless hunt open December 10 - 31 in unit 3X. 
 
 The first preparation was taking part in a sustainable / ethical hunting class organized by the Backcountry Hunters and Anglers (BHA) months before the hunt opened.
 
@@ -22,9 +22,9 @@ On a separate note, everyone needs help in the beginning, either as a first gene
 
 Difficulties aside, I began scouting electronically, as the five hour drive up to the unit from Boise is restrictive and potentially futile, as elk may move before the hunt starts. 
 
-In locating the elk, tips from managing Idaho Fish and Game biologists were accurate and helpful, despite my previous skepticism of anyone really sharing knowledge.
+In narrowing down the swaths of open and public land to areas most likely to hold elk, tips from managing Idaho Fish and Game biologists were accurate and helpful, despite my previous skepticism of anyone really sharing knowledge.
 
-In scouting, getting a bearing on where to stay or camp, and access to good hunting areas, [onX](https://onxmaps.com) was irreplaceable.
+To getting a bearing on where to stay or camp, and reasonable access to good hunting areas (both in availability and hike-in distance), [onX](https://onxmaps.com) was irreplaceable.
 
 Although a whole host of layers and data maps are available through the platform, just the private / public property aggregation layer makes it worth the price. It adds a whole dimension to scouting and navigation, and planning approaches and access with higher levels of certainty, as regulatory / governing body borders and private property exclusion can be reasonably navigated without surprise blockages or potential trespassing. 
 

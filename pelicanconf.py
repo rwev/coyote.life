@@ -19,7 +19,7 @@ SITEURL = "localhost:8000"
 SITE_LOGO_URL = "assets/images/geo-yote.png"
 TAGLINE = "Live wild or die."
 
-DISPLAY_PAGES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
 # BUILD PROCESS
 DEFAULT_METADATA = {
     "author": OWNER,
