@@ -3,7 +3,7 @@ Category: moto
 Tags: 4x4,adventure,adv,bdr,west
 Gallery: {photo}utah-bdr
 
-After 1500+ miles on Rhonda, I'm exhausted. 
+After 1500+ miles on 1983 Honda XL600R "Rhonda", I'm exhausted. 
 
 I started the trip riding down to Ogden, UT, where the group met and loaded the bikes into a rented box truck. This was 300+ miles on the highway coming from Boise, ID.
 
