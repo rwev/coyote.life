@@ -1,5 +1,6 @@
 Title: Late-Season Rifle Hunt Packing List
 Category: reference/packing
+Gallery: {photo}hunt-gear-late-season
 Tags: list
 Status: published 
 
@@ -52,9 +53,10 @@ Packing list for late-season rifle hunting in the mountain west.
     - two-point sling
     - scope cover(s)
     - magazine (rotary) 
-    - extra ammunition
+    - extra ammunition (Federal Premium Berger Hybrid Hunter, 168 grain)
 - sidearm (S&W 629 4" .44 REM MAG)
     - galco belt holster
+    - barsony double speedloader pouch
     - HK Speedloaders x 2
 
 # logistics / technology

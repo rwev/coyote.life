@@ -29,6 +29,12 @@ DEFAULT_METADATA = {
 PATH = "content"
 PAGE_PATHS = ["pages"]
 STATIC_PATHS = ["assets"]
+
+EXTRA_PATH_METADATA = {
+    'assets/extra/robots.txt': {'path': 'robots.txt'},
+    'assets/extra/favicon.ico': {'path': 'favicon.ico'}
+}
+
 ARTICLE_PATHS = ["articles/published"]
 OUTPUT_PATH = "./public"  # for gitlab page
 
@@ -39,16 +45,15 @@ DEFAULT_LANG = "en"
 PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = [
     "filetime_from_git",
-    # "autopages",
+    "autopages",
     "similar_posts",
     "neighbors",
     "section_number",
-    # #    "encrypt_content", TODO
-     "more_categories",
-    # "gzip_cache",
+    "more_categories",
+    "gzip_cache",
     "photos",
     "summary",
-    "clean_summary",
+    "sitemap"
 ]
 
 # autopages
@@ -68,3 +73,17 @@ ENCRYPT_CONTENT = {
 PHOTO_LIBRARY = "./content/assets/images"
 PHOTO_EXIF_COPYRIGHT_AUTHOR = "Ryan William"
 
+# sitemap
+SITEMAP = {
+    "format": "xml",
+    "priorities": {
+        "articles": 0.9,
+        "pages": 0.8,
+        "indexes": 0.7,
+    },
+    "changefreqs": {
+        "articles": "monthly",
+        "indexes": "daily",
+        "pages": "monthly"
+    }
+}
