@@ -1,4 +1,4 @@
-Title: Wealth & Technology & Equality
+Title: Wealth & Technology: Onward to Practical Equality
 Category: economics
 Tags: democracy,wealth
 Status: published

@@ -6,7 +6,7 @@ Status: published
 
 Yesterday was my last day of my first season of big game hunting. 
 
-New to big game hunting, I definitely bit off a large chunk by choosing to chase elk in high and open country.
+New to big game hunting, I definitely bit off a large chunk by choosing to chase elk in high and open country. With a [small minority](https://idfg.idaho.gov/ifwis/huntplanner/stats/?season=controlled&game=elk&yr=2018) of elk hunters being successful each year, including those from generational families of hunters and local knowledge, it would be an uphill battle. 
 
 # Planning and Preparation
 
@@ -30,11 +30,9 @@ Although a whole host of layers and data maps are available through the platform
 
 The line and area measurement tools, for which there are also good open source equivalents, can even be a decent substitute for a laser rangefinder, when one can use geographic features and satellite imagery cross-referencing to measure routes and distances to animals. 
 
-After seven days out on the hunt, and much learned about the area and the elk that inhabit it, I ended with a successful take on the last day.
-
 # The Takeaways
 
-There are a handful of takeaways from this year's season, and to carry forward into future hunts.
+After seven days out on the hunt, and much learned about the area and the elk that inhabit it, I ended with a successful take on the last day. Here are a handful of thoughts from this year's season to carry forward into future hunts.
 
 ## One Week Minimum Hunt
 
@@ -56,12 +54,6 @@ Go where the elk are, and where humans aren't.
 
 A widely known M.O. of the military, the "hurry up and wait" mentality is critical to hunting. With sheer time in the field being critical, it is important to maximize time in the field, much is which is, in turn, spent waiting, being patient for animals to move or show themselves, or posting up and looking. Like the first point, maximizing time spent in the field maximizes the chances of finding elk in a position to set up on or stalk them.
 
-## Always On
-
-Due to the previously mentioned autonomous, unpredictable nature of animals, one needs to be alert and ready to move on them at all times. 
-
-This year, a herd showed themselves 7.5 miles into a 8 mile off-trail hike, on the last 0.5 miles back to the vehicle access point. Exhausted and pretty well checked out for the season, and already reflecting on how my first season went, I look up onto the ridge to my left, and a herd crests over it, and my subsequent stalk ended up being successful. Had I not been paying attention in those final moments, I wouldn't have even noticed. 
-
 ## All Things Come Together
 
 Many things need to take place to end up with a successful kill, including, but not limited to, and in this order, for a spot-and-stalk:
@@ -77,8 +69,19 @@ On the fourth day, I spotted a small herd bedded down in large timber on a steep
 
 I was lucky enough to make a downwind approach, with the prevailing wind remaining the same throughout the duration, without getting seen or smelled by unknown members of the larger concealed herd, and get set up in a good shooting position not more than 175 yards from a fair game specimen. 
 
-Pulled the trigger, felt great about the shot, but after my target took off uphill spooked with the rest of the herd, I knew that something was up with my rifle: I had fallen hard onto it and bashed it into a rocky hillside. It had lost its zero, and was now shooting at least 18" right at the distance to target. (I'm thankful that I missed the animal completely, with the bullet traveling clean in front of it, as opposed to a gut shot.)
+Pulled the trigger and felt great about the shot, but after my target took off uphill spooked with the rest of the herd, I knew that something was up with my rifle: I had fallen hard onto it and bashed it into a rocky hillside. It had lost its zero, and was now shooting at least 18" right at the distance to target. (I'm thankful that I missed the animal completely, with the bullet traveling clean in front of it, as opposed to a gut shot.)
 
+## Always On
+
+Due to the previously mentioned autonomous, unpredictable nature of animals, one needs to be alert and ready to move on them at all times. 
+
+This year, a herd, from which I took my animal, showed themselves 7.5 miles into a 8 mile off-trail hike, on the last 0.5 miles back to the vehicle access point. Exhausted and pretty well checked out for the season, and already reflecting on how my first season went, I look up onto the ridge to my left, and a herd crests over it, and my subsequent stalk ended up being successful. Had I not been paying attention in those final moments, I wouldn't have even noticed. 
+
+In all, the mentally and physically grueling challenge and the final success made my year as 2019's capstone achievement.  
+
+
+
+ 
 
 
 
