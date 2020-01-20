@@ -33,6 +33,8 @@ Although rural populations do indeed possess less, there is more appreciation an
 
 In principal: rural living emphasize what one _has_, not what one has not.
 
+> What matters isn't what a person has or doesn't have; it is what he or she is afraid of losing. The more you have to lose, the more fragile you are.<p class="annotation">Nassim Nicholas Taleb, <em>Skin in the Game</em></p>
+
 The rural life offer freedom from materialism and comparison, while urban and suburban areas may be rich in resources but consumed by consumerism and excess. Free from the crushing societal pressures of conformity, image-based judgement, and the bloat of the politics of large government and organizations, rural folks stay within their means and are generally more resourceful and self-reliant, if for no other reason than the relative lack of safety and comfort infrastructure on which the consumption and blunder feed. 
 
 > The purpose of society is to mask ourselves from each other... My fragile connection with the world of polite society has, without a doubt, been severed. <p class="annotation">John McAfee</p>
@@ -78,3 +80,11 @@ In the age of globalism, the worth of a society is derived by economics measurem
 
 ## An End, Not a Mean
 
+
+## Time Aplenty
+
+Time is the most valuable resource. And away from the hurry and hustle of urban life, it can be fully appreciated. 
+
+The pursuit for more, more, more and the excess discounts the value of time, _time discounting_.
+
+> A bird in the hand is better than ten on the tree <p class="annotation">Levantine proverb</p>

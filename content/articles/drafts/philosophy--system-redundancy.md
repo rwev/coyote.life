@@ -1,6 +1,5 @@
 Title: On System Redundancy
-Category: philosophy
-Series: redundancy
+Category: philosophy/risk
 
 The enabler of the modern economy is specialization. Only specialization, and the levels of efficiency it offers, is capable of mass production of our day. 
 
@@ -12,7 +11,27 @@ More broadly, an entity must only be prepared for what it will experience, and i
 
 Specialization is the naive way of preparing for the unknown, in general.  
 
+According to Nassim Nicholas Taleb in _Antifragile_, decentralization is convex to variation: it strengthens with change, and the network absorbs the knowledge of the event and adapts to it - the population evolves to more robust and resilient state, with some nodes dying off, and others springing up.
+
 But with specialization comes fragility - entities that perform only in the space of the known, the static, the predictable - over-invested in their current environment and unable to adapt when the necessary assumptions become untrue. 
+
+The larger the organizations are, the more they have to lose, and the more then have to lose, the more fragile they are - also Taleb.
+
+> Survival is the ability handle disorder. That which is fragile has an asymmetric response to volatility and other stressors, that is, will experience more harm than benefit from it. 
+
+>For without sitg, via exposure to reality, the mechanism of fragility is disrupted: things may survive for no reason for a while, at some scale, then ultimately collapse, causing a lot of collateral harm. 
+
+> Bureaucracy is a construction by which a person is conveniently separated from the consequences of his or her actions... Decentralization reduces large structural assymmetries... If we do not decentralize and distribute responsibility, it will happen by itself, the hard way: a system that doesn't have a mechanism of sitg, with a buildup of imbalances [fragility], will blow up that way.
+
+> decentralization and fragmentation, aside from stabilizing the system improves people's connection to their labor.
+
+The legacy of American distaste for bureaucracy, "establishment", rule by foreign and distant entities (as true for the thirteen colonies and the English crown as for the rural and western folk and Washington DC) and matching affinity for self-representation, localization of rule (state's rights) proves its own success as it continues to stand the test of time. It is the political philosophy of skin in the game, decentralization, and antifragility. 
+
+Libertarians don't make a good political party, and have consequently lacked success in elections, because they are fundamentally against top-down organization, and forming one for the sake of politics is itself counter to libertarian principles. Their disorganization and fragmentation shows - some consider this embarrassing and a discredit to their values, but I, a virtue of practice.
+
+Localize, reduce dependence on global network. 
+
+That is, they don't have skin in the game: they rent-seek, unable to evolve and adapt, thriving on constants, predictability, and the status quo. The organizations most affected by change are the ones least prepared for it.
 
 # Fragileconomics 
 When profit is the motive, efficiency is the chorus. Efficiency _enables_ profit. Profits cannot be increased without efficiency. This is the essence of capitalism and laissez-faire economics. 
