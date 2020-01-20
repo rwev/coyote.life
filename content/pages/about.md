@@ -27,7 +27,7 @@ This risk-taking has made coyotes more prolific. Breeding alphas are killed cons
 
 This site is inspired, both in design and content, by the infamous, "wily" coyote.
 
-I identify with versatility, resiliency, adaptability, dynamic competence, breadth, and risk-taking of the coyote.
+I identify with the versatility, resiliency, adaptability, dynamism, ubiquity, redundancy, antifragility and risk-taking of the coyote. 
 
 This site, [coyote.life](https://coyote.life) will be a digital journal about the wide array of physical, intellectual, or spiritual adventures that I undertake living a coyote-style life, as well as reference materials useful in such activity. 
 
