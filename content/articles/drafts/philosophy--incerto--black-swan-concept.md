@@ -40,7 +40,7 @@ Recursive concept, XXVII
 
 > Categorizing always produces reduction in true complexity... Any reduction f the world around us can have explosive consequences since it rules out sources of uncertainly; it drives us to a misunderstanding of the fabric of the world [reality].
 
-Humans, in the desire for intellectual comfort to, to narrate the world and make sense of events, to find meaning, try to explain and categorize, when, in reality, it's all far to complicated and chaotic for one to make sense of it all without excessive reductionism. This reduction and loss of knowledge and wisdom when we fit reality to our mental models often does more harm than good. 
+> Humans, in the desire for intellectual comfort to, to narrate the world and make sense of events, to find meaning, try to explain and categorize, when, in reality, it's all far to complicated and chaotic for one to make sense of it all without excessive reductionism. This reduction and loss of knowledge and wisdom when we fit reality to our mental models often does more harm than good. 
 
 > the beats is not just the bell curve or the self-deceiving statistician or the Platonified scholar... it is [man's] drive to "focus" on what makes sense to us. Living on the planet today requires a lot more imagination than we are made to have... Our world is dominated by the extreme, the unknown, and the very improbable (according to current knowledge), and all the while we focus on the known and the repeated... We need to use the extreme event as a starting point, and not treat it as an exception to be swept under the rug... in spite of our progress and growth in knowledge, or perhaps because of such progress and growth, the future will be increasingly less predictable, while both human nature and social science seem to conspire to hide the idea from us. 
 
@@ -48,7 +48,7 @@ Humans, in the desire for intellectual comfort to, to narrate the world and make
 >
 ## History and the Triplet of Opacity
 
-History is opaque. You see what comes out, not the script that produces events, the generator of history. There is a fundamental incompleteness in your grasp of such events, since you do not see what's inside the box, how the mechanisms work. What I call the generator of historical events is different from the events themselves, much as the minds of the gods cannot be read just by witnessing their deeds. You are very likely to be fooled by their intentions.
+> History is opaque. You see what comes out, not the script that produces events, the generator of history. There is a fundamental incompleteness in your grasp of such events, since you do not see what's inside the box, how the mechanisms work. What I call the generator of historical events is different from the events themselves, much as the minds of the gods cannot be read just by witnessing their deeds. You are very likely to be fooled by their intentions.
 
 >The human mind suffers from three ailments as it comes in contact with history, what I call the triplet of opacity:
 
@@ -67,5 +67,49 @@ Berlin Diary: The Journal of a Foreign Correspondent, 1934-1941 pg 12.
 > If you selected one hundred independent-minded journalists capable of seeing factors in isolation from one another, you would get one hundred different opinions. But the process of having these people report in lockstep caused the dimensionality of the opinion set to shrink considerably -- they converged on opinions and used the same items as caused. 
 
 Skipped ch 3.
+
+> The entire knowledge-seeking enterprise is based on taking conventional wisdom and accepted scientific beliefs and shattering them into pieces with new counterintuitive evidence... Scientists may be in the business of laughing at their predecessors, but owing to an array of human mental dispositions, few realize that someone will laugh at their beliefs in the future.
+
+## Bertrand's Problem of Induction
+
+> How do we know that what we have observed from objects and events suffices to enable us to figure out their other properties... how can we figure out properties of the infinite unknown based on the finite known?
+
+> Consider a turkey that is fed every day. Every single feeding will firm up the bird's belief that it is the general rule of life to be fed every day by friendly members of the human race "looking out for its best interests" as a politician would say... this problem can be generalized to any situation where the same hand that feeds you can be the one that wrings your neck... Let's go one step further and consider induction's most worrisome aspect: learning backwards. 
+
+> Consider that the turkey's experience may have, rather than no value, a negative value... Its confidence increased the number of friendly feedings grew, and it felt increasingly safe even though the slaughter was more and more imminent... the feeling of safety reached its maximum when the risk was at the highest!
+ 
+> Making a naive observations of the past as something definitive of representative of the future is the one and only cause of our inability to understand the black swan... a Black swan is relative to knowledge... you can eliminate a black swan by keeping an open mind. 
+
+> Erudition signals genuine intellectual curiosity. It accompanies an open mind and the desire to probe the ideas of others. Above all, an erudite can be dissatisfied with his own knowledge, and such dissatisfaction is a wonderful shield against Platonicity [and the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)], and the simplification of the five-minute manager, or the philistinism of the overspecialized scholar. 
+
+> ... themes arising from our Blindness to the Black Swan [due to us _thinking_ we live in Mediocristan]:
+
+1. We focus on preselected segments of the seen and generalize from it to the unseen: _the error of confirmation_
+2. We fool ourselves with stories that cater to our Platonic thirst for distinct patterns: _the narrative fallacy_
+3. What we see is not necessarily all that is there. History hides Black Swans from us and gives us the mistaken idea about the odds of events [and their predictability]: _the distortion of silent evidence_
+4. We "tunnel": that is we focus on a few well-defined sources of uncertainty, on too specific a list of Black Swans (at the expense of others that do not easily come to mind).
+
+> See the _round-trip fallacy_ in the unfairness of stereotypes: minorities in urban areas have suffered the same confusion: even if most criminals come from their ethnic subgroup, most of their ethnic subgroup are not criminals, but they suffer from discrimination by people who should know better... Our inferential machinery... is not made for a complicated environment... Consider that in a primitive environment there is no consequential difference between the statements _most killers are wild animals_ and _most wild animals are killers_. There is an error here, but it is almost inconsequential. Our statistical intuitions have not evolved for a habitat in which these subtleties can make a big difference. 
+
+> The inability to automatically transfer knowledge and sophistication from one situation to another, or from theory to practice is a quite disturbing attribute of human nature. Let us call it the _domain specificity_ of our reactions... our mode of thinking, intuitions, depend on the context [domain] in which the matter is presented... the classroom is one domain; real life is another. We react to a piece of information not on its logical merit, but on the basis of which framework surrounds it, and how it registers with our social-emotional system... Knowledge, even when it is exact, does not often lead to appropriate actions because we tend to forget what we know, or forget how to process it properly if we do not pay attention. 
+
+> In 1971, Amos Tversky and Daniel Kahneman plied professors of statistics with statistical questions not phrased as statistical questions.... Statisticians, it has been shown, tend to leave their brains in the classroom and engage in the most trivial inferential errors once they are let out into the streets. 
+
+> Doctors in the midst of _scientific arrogance_ looks down at mothers' milk as something primitive as if it could be replicated by their laboratories - not realizing that mothers' milk might include useful components _elude their scientific understanding_: a simple confusion of _absence of evidence_ of the benefits of mothers' milk and the _evidence of absence_ (another case of Platonicity as it "does not make sense" to breast-feed when we could simply use bottles)... Many people paid the price for this naive inference... Medicine has caused plenty of damage throughout history, owing to this simple kind of inferential confusion... definitive, closed beliefs need to be avoided... [advocate] skeptical-empirical medicine [science] that avoid[s] theorizing.
+
+> naive empiricism: we have a natural tendency to look for instances that confirm our story and our vision of the world - these instances are always easy to find... you take past instances that corroborate your theories and you treat them as evidence.
+
+## NEGATIVE EMPIRICISM
+
+> A series of corroborative facts is not necessarily evidence. Seeing white swans does not confirm the existence of black swans [it only reinforces the belief that all swans are white]. If I see a black swan I can certify that all swans are not white... If I see someone kill, then I can be practically certain that he is a criminal. If I don't see him kill, I cannot be certain that he is innocent. 
+
+> We can get closer to the truth by _negative_ instances, not by verification. It is misleading to build a general rule from observed facts. Contrary to conventional wisdom, our body of knowledge does not increase from a series of confirmatory observations, like the turkey's. 
+
+> This asymmetry is immensely practical... Sometimes a lot of data can be meaningless; at other times one single piece of information can be very meaningful... _you know what is wrong with a lot more confidence that you know what is right_.
+
+> The person who is credited with the promotion of this idea of one-sided semi-skepticism is Karl Popper... Popper's far more powerful and original idea is the "open" society, one that relies on skepticism as the modus operandi, refusing and resisting definitive truths. He accused Plato of closing our minds.
+
+> Confirmation bias: our natural tendency to look only for corroboration. This confirmation problem pervades our modern life, since most conflicts have at their root the following mental bias: when Arabs and Israelis watch news reports they see different stories in the same succession of events. Democrats and Republicans look at different parts of the same data and never converse to the same opinions. Once you mind is inhabited with a certain view of the world, you will tend only to consider instances proving you right. Paradoxically, the more [filtered] information you have, the more justified you will feel in your views... the ability to look at the world without the need to find signs that stroke one's ego: that's true self-confidence.
+
 
 
