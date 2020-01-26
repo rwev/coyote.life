@@ -140,4 +140,28 @@ In reality, memory is dynamic - not static - like a paper on which new texts (or
 
 Beyond our perceptional distortions, there is a problem with logic itself...Consider that two people can hold incompatible beliefs based on the exact same data... the logician W.V. Quine showed that there exist families of logically consistent interpretations and theories that can match a given series of facts... mere absence of nonsense may not be sufficient to make something true. 
 
+We harbor a crippling dislike for the abstract [unknown]... Whenever there is a market move, the news media feel obligated to give the "reason"... It happens all the time: a cause is proposed to make you swallow the news and make matters more concrete... the problem of overcausation does not lie with the journalist, but with the public.... We want to be told stories, and there is nothing wrong with that - except that we should check more thoroughly whether the story provides consequential distortions of reality. 
+
+Just consider that the newspaper try to get impeccable facts, but weave them into a narrative in such a way as to convey the impression of causality (and knowledge). There are fact-checkers, not intellect-checkers.
+
+General, we like to think about specific and known Black Swans when in the fact the very nature of randomness lies in its abstraction ("the unknown unknowns").
+
+# THE SHORTCUTS
+
+System 1, the experiential one, is effortless, automatic fast, opaque (we do not know that we are using it), parallel-processed, "intuition", and performs quick acts of prowess [popularized for Malcolm Gladwell's _Blink_]... highly emotional, it produces shortcuts, called "heuristics and biases", that allow us to function rapidly and effectively "fast and frugal" "quick and dirty."
+
+System 2, the cogitative, called "thinking", effortful, reasoned, slow, logical, serial, progressive, self-aware (you can follow steps in your own reasoning), tracable, retrospectively adaptable
+
+You have to make an effort (System 2) to override your first reaction. Clearly Mother Nature makes you use the fast System 1 to get out of trouble, so that you do no sit down and cogitate whether there is truly a wild animal attacking you or if it is an optical illusion. You run immediately before you become "conscious" of the presence of the tiger. 
+
+Emotions are assumed to be the weapon System 1 uses to direct us and force us to act quickly. It mediates risk avoidance far more effectively than our cognitive system. 
+
+Much of the trouble with human nature resides in our inability to use much of system 2. 
+
+neurobiologists make a similar distinction to that between system 1 and system 2, except that they operate along anatomical lines [instead of psychological and empirical], the cortical part, which we we are supposed to use for thinking, and which distinguishes us from other animals, and the fast-reacting limbic brain, which is the center of emotions, and which we share with other mammals. 
+
+Our misunderstanding of the Black Swan can be largely attributed to our using System 1, i.e. narratives, and the sensational [mental availability bias] - as well as the emotional - which imposes on us a wrong map of the likelihood of events.
+
+
+To avoid the ills of the narrative fallacy... favor experimentation over storytelling, experience over history, and clinical knowledge over theories... Being empirical doesn't mean running a laboratory in one's basement: it is just a mind-set that favors a certain class of knowledge over others. 
 
