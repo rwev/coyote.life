@@ -1,5 +1,6 @@
 Title: Human Hubris & the Procrustean Bed
 Category: philosophy/incerto
+Tags: nnt
 Status: published
 
 A _Procrustean bed_ describes an arbitrary standard to which exact conformity is forced: avoid building them into any mental structure.

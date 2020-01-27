@@ -1,6 +1,6 @@
 Title: The Road to Fragility is Specialization
 Category: philosophy/incerto
-Tags: risk,sitg,antifragility,versatility
+Tags: risk,sitg,antifragility,versatility,nnt
 Status: published
 
 The modern, global economy is powered by specialization: the levels of efficiency it offers enables mass production of our day. 

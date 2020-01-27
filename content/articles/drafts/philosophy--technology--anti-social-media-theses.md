@@ -27,6 +27,15 @@ Seasons of Jesus' life were defined by wilderness: the solitude, the peace, tran
 Social media is fed by the intentional maintenance of self-image, for no other reason than to show this image to online social circle, living loud and publicly, not slowly, quietly, and intentionally. 
 
 
+Proverbs 12:23   (Read all of Proverbs 12)
+Prudent people don't flaunt their knowledge; talkative fools broadcast their silliness.
+
+Proverbs 10:19   (Read all of Proverbs 10)
+The more talk, the less truth; the wise measure their words.
+
+
+Proverbs 13:10   (Read all of Proverbs 13)
+Arrogant know-it-alls stir up discord, but wise men and women listen to each other's counsel.
 
 Coming into adulthood, can feel the loss of presence in my life: presence to work, presence to relationships, presence to body and nature. We work and work, occupy every waking moment with a task, not out of curiosity, but anxiety. What if we slowed down, become more curious, and thus present to ourselves, our souls, and our relationships? The life Jesus alluded to: the life of never-ending childhood, fully present, curious, humble, and free. 
 

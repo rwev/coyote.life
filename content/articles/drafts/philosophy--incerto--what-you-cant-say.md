@@ -1,6 +1,6 @@
 Title: What You Can't Say
 Category: philosophy/incerto
-Tags: work,money,wealth,technology,capitalism,democracy,markets,economics,sitg
+Tags: pg
 
 ## What You Can't Say
 Essay #3 in the collection.
@@ -21,7 +21,7 @@ Innovators of the past had to fight against popular opinion to reveal scientific
 
 > Fashion is mistaken for good design; moral fashion is mistaken for good.
 
-Fashions (_def.: a popular or the latest style) _all all kinds are random, and unrecognizable to most people, as most people are not cognizant of the trends of the past. However,
+Fashions (_def.: a popular or the latest style)_ of all kinds are random, and unrecognizable to most people, as most people are not cognizant of the trends of the past. However,
 
 > [Violating clothing fashions] gets you laughed at. Violating moral fashions can get you fired, ostracized, imprisoned, or even killed.
 
