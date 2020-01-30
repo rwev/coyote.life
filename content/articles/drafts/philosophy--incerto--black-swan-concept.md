@@ -4,6 +4,8 @@ Tags: risk,sitg,knowledge
 
 My attempt at [grokking]() NNT's book, _The Black Swan_. 
 
+The Black Swan analagy
+
 > illustrates a severe limitation to our learning from observations or experience and the fragility of out knowledge. One single observation can invalidate a general statement [all swans are white] derived from millennia of confirmatory sightings of millions of white. All you need is one single black bird...  it is about the oversize role of extreme events in many domains in life. 
 >
 
@@ -112,13 +114,13 @@ Skipped ch 3.
 
 ## NARRATIVE FALLACY
 
-> We like stories, like like to summarize, and we like to simplify, i.e. to reduce the dimensions of matters... The fallacy is associated with our vulnerability to over-interpretation and out predilection for compact stories over raw truths. It severely distorts our mental representation of the world... it addresses our limited ability to look at sequences of facts without weaving an explanation into them, or equivalently, forcing a logical link, an arrow of relationship, upon them. Explanations bind facts together. They make them all the more easily remembered; they help them make more sense. Where this propensity can go wrong is when it increases our impression of understanding... it is more generally a problem of information. While generally narrativity comes from our biological need to reduce dimensionality, robots would be prone to same process of reduction. Information wants to be reduced. 
+We like stories, like like to summarize, and we like to simplify, i.e. to reduce the dimensions of matters... The fallacy is associated with our vulnerability to over-interpretation and out predilection for compact stories over raw truths. It severely distorts our mental representation of the world... it addresses our limited ability to look at sequences of facts without weaving an explanation into them, or equivalently, forcing a logical link, an arrow of relationship, upon them. Explanations bind facts together. They make them all the more easily remembered; they help them make more sense. Where this propensity can go wrong is when it increases our impression of understanding... it is more generally a problem of information. While generally narrativity comes from our biological need to reduce dimensionality, robots would be prone to same process of reduction. Information wants to be reduced. 
 
-> In studying the problem of induction [in the prev chapter], we examined what could be inferred about the unseen, what lies outside our information set. [The narrative fallacy] looks at the seen, what lies within our information set, [and] the distortions in the act of processing it... Our propensity to impose meaning and concepts blocks our awareness of the details.
+In studying the problem of induction [in the prev chapter], we examined what could be inferred about the unseen, what lies outside our information set. [The narrative fallacy] looks at the seen, what lies within our information set, [and] the distortions in the act of processing it... Our propensity to impose meaning and concepts blocks our awareness of the details.
 
-> A higher concentration of dopamine appears to lower skepticism and result in greater vulnerability to pattern detection... [it] seems to increase such activity and lowers one's suspension of belief. The person becomes vulnerable to all manner of fads...
+A higher concentration of dopamine appears to lower skepticism and result in greater vulnerability to pattern detection... [it] seems to increase such activity and lowers one's suspension of belief. The person becomes vulnerable to all manner of fads...
 
-> There is another, even deeper reason for our inclination to narrate, and it is not psychological [or biological]. It has to do with the effect of order on information storage and retrieval in any system, and it's worth explaining here because of what I consider the central problems of probability and information theory:
+There is another, even deeper reason for our inclination to narrate, and it is not psychological [or biological]. It has to do with the effect of order on information storage and retrieval in any system, and it's worth explaining here because of what I consider the central problems of probability and information theory:
 
 1. information is costly to obtain,
 
@@ -126,26 +128,82 @@ Skipped ch 3.
 
 3. information is costly to manipulate and retrieve... With so many brain cells (100B+)... difficulties probably do not arise from storage capacity, but may just be indexing problems. You conscious or working memory, is considerably smaller... Compression [of information] is vital to the performance of conscious work... By finding a pattern, the logic of a series, you no longer need to memorize at all. You just store the pattern... a pattern is obviously more compact than raw information. You looked into the book and found a rule [and remembered just it]. It is along these lines that the great probabilist Andrey Kolmogorov defined the degree of randomness, "Kolmogorov complexity."
 
-> We, members of the human variety of primates, have a hunger for rules because we need to reduce the dimensions of matters so they can get into our heads. Or, rather sadly, so we can squeeze them into our heads. The more random information is, the greater the dimensionality, and thus the more difficult to summarize. The more you summarize, the more order you put in, the less randomness. Hence the same condition that makes us simplify pushes us to think that the world is less random than it actually is. And the Black Swan is what we leave out in the simplification. 
+We, members of the human variety of primates, have a hunger for rules because we need to reduce the dimensions of matters so they can get into our heads. Or, rather sadly, so we can squeeze them into our heads. The more random information is, the greater the dimensionality, and thus the more difficult to summarize. The more you summarize, the more order you put in, the less randomness. Hence the same condition that makes us simplify pushes us to think that the world is less random than it actually is. And the Black Swan is what we leave out in the simplification. 
 
-> Both the artistic and scientific enterprises are the product of our need to reduce dimensions and inflict some order on things. Think of the world around you, laden with trillions of details. Try to describe it and you will find yourself tempted to weave a thread into what you are saying. A novel, a story, a myth, or a tale, all have the same function: they spare us from the complexity of the world and shield us from its randomness. Myths impart order to the disorder of human perception and the perceived "chaos of human experience."
+Both the artistic and scientific enterprises are the product of our need to reduce dimensions and inflict some order on things. Think of the world around you, laden with trillions of details. Try to describe it and you will find yourself tempted to weave a thread into what you are saying. A novel, a story, a myth, or a tale, all have the same function: they spare us from the complexity of the world and shield us from its randomness. Myths impart order to the disorder of human perception and the perceived "chaos of human experience."
 
-> Platonicity affects us here once again... [the] desire for order applies to scientific pursuits - it us just that, unlike art, the (stated) purpose of science is to get to the truth, not to give you a feeling of organization or make you feel better. We tend to use knowledge as therapy. 
+Platonicity affects us here once again... [the] desire for order applies to scientific pursuits - it us just that, unlike art, the (stated) purpose of science is to get to the truth, not to give you a feeling of organization or make you feel better. We tend to use knowledge as therapy. 
 
-> Our tendency to perceive - to impose - narrativity and causality are symptoms of the same disease - dimension reduction... [both have] a chronological dimension and lead to the perception of the flow of time [in a single direction]... but memory and the arrow of time can get mixed up. Narrativity can viciously affect the remembrance of past events as follows: we will tend to more easily remember those fact from our past that fit a narrative, while we tend to neglect others that do not appear to play a causal role in the narrative... this simple inability to remember not the true sequence of events but a reconstructed one will make history appear in hindsight to be far more explainable that it actually was - or is... 
+Our tendency to perceive - to impose - narrativity and causality are symptoms of the same disease - dimension reduction... [both have] a chronological dimension and lead to the perception of the flow of time [in a single direction]... but memory and the arrow of time can get mixed up. Narrativity can viciously affect the remembrance of past events as follows: we will tend to more easily remember those fact from our past that fit a narrative, while we tend to neglect others that do not appear to play a causal role in the narrative... this simple inability to remember not the true sequence of events but a reconstructed one will make history appear in hindsight to be far more explainable that it actually was - or is... 
 
-> In reality, memory is dynamic - not static - like a paper on which new texts (or new versions of the same text) will be continuously recorded, thanks to the power of posterior information... Memory is more of a self-serving dynamic revision machine: you remember the last time you remembered the event, and, without realizing it, change the story at every subsequent remembrance. So we pull memories along causative lines, revising them involuntarily and unconsciously. We continuously renarrate past events in the light of what appears to make what we think of as logical sense after these events occur... While we believe that memory is fixed, constant, and connected, all this is very far from the truth. What makes sense according to information obtained subsequently will be remembered more vividly. 
+In reality, memory is dynamic - not static - like a paper on which new texts (or new versions of the same text) will be continuously recorded, thanks to the power of posterior information... Memory is more of a self-serving dynamic revision machine: you remember the last time you remembered the event, and, without realizing it, change the story at every subsequent remembrance. So we pull memories along causative lines, revising them involuntarily and unconsciously. We continuously renarrate past events in the light of what appears to make what we think of as logical sense after these events occur... While we believe that memory is fixed, constant, and connected, all this is very far from the truth. What makes sense according to information obtained subsequently will be remembered more vividly. 
 
-> Beyond our perceptional distortions, there is a problem with logic itself...Consider that two people can hold incompatible beliefs based on the exact same data... the logician W.V. Quine showed that there exist families of logically consistent interpretations and theories that can match a given series of facts... mere absence of nonsense may not be sufficient to make something true. 
+Beyond our perceptional distortions, there is a problem with logic itself...Consider that two people can hold incompatible beliefs based on the exact same data... the logician W.V. Quine showed that there exist families of logically consistent interpretations and theories that can match a given series of facts... mere absence of nonsense may not be sufficient to make something true. 
 
-> We harbor a crippling dislike for the abstract [unknown]... Whenever there is a market move, the news media feel obligated to give the "reason"... It happens all the time: a cause is proposed to make you swallow the news and make matters more concrete... the problem of overcausation does not lie with the journalist, but with the public.... We want to be told stories, and there is nothing wrong with that - except that we should check more thoroughly whether the story provides consequential distortions of reality. 
+We harbor a crippling dislike for the abstract [unknown]... Whenever there is a market move, the news media feel obligated to give the "reason"... It happens all the time: a cause is proposed to make you swallow the news and make matters more concrete... the problem of overcausation does not lie with the journalist, but with the public.... We want to be told stories, and there is nothing wrong with that - except that we should check more thoroughly whether the story provides consequential distortions of reality. 
 
-> Just consider that the newspaper try to get impeccable facts, but weave them into a narrative in such a way as to convey the impression of causality (and knowledge). There are fact-checkers, not intellect-checkers.
+Just consider that the newspaper try to get impeccable facts, but weave them into a narrative in such a way as to convey the impression of causality (and knowledge). There are fact-checkers, not intellect-checkers.
 
-> General, we like to think about specific and known Black Swans when in the fact the very nature of randomness lies in its abstraction ("the unknown unknowns").
+General, we like to think about specific and known Black Swans when in the fact the very nature of randomness lies in its abstraction ("the unknown unknowns").
 
 # THE SHORTCUTS
 
-> Our misunderstanding of the Black Swan can be largely attributed to our using System 1, i.e. narratives, and the sensational [mental availability bias] - as well as the emotional - which imposes on us a wrong map of the likelihood of events.
+System 1, the experiential one, is effortless, automatic fast, opaque (we do not know that we are using it), parallel-processed, "intuition", and performs quick acts of prowess [popularized for Malcolm Gladwell's _Blink_]... highly emotional, it produces shortcuts, called "heuristics and biases", that allow us to function rapidly and effectively "fast and frugal" "quick and dirty."
 
-> To avoid the ills of the narrative fallacy... favor experimentation over storytelling, experience over history, and clinical knowledge over theories... Being empirical doesn't mean running a laboratory in one's basement: it is just a mind-set that favors a certain class of knowledge over others. 
+System 2, the cogitative, called "thinking", effortful, reasoned, slow, logical, serial, progressive, self-aware (you can follow steps in your own reasoning), tracable, retrospectively adaptable
+
+You have to make an effort (System 2) to override your first reaction. Clearly Mother Nature makes you use the fast System 1 to get out of trouble, so that you do no sit down and cogitate whether there is truly a wild animal attacking you or if it is an optical illusion. You run immediately before you become "conscious" of the presence of the tiger. 
+
+Emotions are assumed to be the weapon System 1 uses to direct us and force us to act quickly. It mediates risk avoidance far more effectively than our cognitive system. 
+
+Much of the trouble with human nature resides in our inability to use much of system 2. 
+
+neurobiologists make a similar distinction to that between system 1 and system 2, except that they operate along anatomical lines [instead of psychological and empirical], the cortical part, which we we are supposed to use for thinking, and which distinguishes us from other animals, and the fast-reacting limbic brain, which is the center of emotions, and which we share with other mammals. 
+
+Our misunderstanding of the Black Swan can be largely attributed to our using System 1, i.e. narratives, and the sensational [mental availability bias] - as well as the emotional - which imposes on us a wrong map of the likelihood of events.
+
+
+To avoid the ills of the narrative fallacy... favor experimentation over storytelling, experience over history, and clinical knowledge over theories... Being empirical doesn't mean running a laboratory in one's basement: it is just a mind-set that favors a certain class of knowledge over others. 
+
+## CONCENTRATION OF SUCCESS 
+
+Intellectual, scientific, and artistic activities belong to Extremistan, where there is a severe concentration of success, with a very small number of winners claiming a large share of the pot... Acknowleding the role of this concentration of success, and acting accordingly, causes us to be punished twice: we live in a society where the reward mechanism is based on the illusion of the regular; our hormonal reward system is also needs tangible and steady results. It too thinks the world is well behaved- it falls for the confirmation error. The world has changed too fast for our genetic makeup. We are alienated from our environment. 
+
+Finding nothing is very valuable, since is it part of the process of discovery. 
+
+Our intuitions are not cut out for nonlinearities. Consider our life in a primitive environment where process and success are closely connected... more work will lead to more apparent results, so your mood is propped up by visible continuous feedback... Our emotional apparatus is designed for linear causality... If you feel that you are not going anywhere, your emotions will cause you to become demoralized. But modern reality rarely gives us the privilege of a satisfying, linear, positive progression... the logical part of our mind, that "higher one" [cortical System 2], which distinguishes us from animals, can override our animal instinct, which asks for immediate rewards. 
+
+Mother Nature destined us to derive enjoyment from a steady flow of pleasant small, but frequent rewards... our major satisfaction for there of years came in the form of food and water (and something else more private)... the problem is that we do not live in an environment where results are delivered in a steady manner... it is unfortunate that the right strategy for our current environment may not offer internal rewards and positive feedback.
+
+Nonlinear relationships are ubiquitous in life. Linear relationships are truly the exception; we only focus on them in classrooms and textbooks because they are easier to understand... with linearity, relationships between variables are clear, crisp, and constant, therefore Platonically easy to grasp in a single sentence...
+
+# The Problem of Silent Evidence
+
+Roman stoic Cicero presented the following story. One Diagoras, a nonbeliever in the gods, was shown painted tablets bearing the portraits of some worshippers who prayed, then survived a subsequent shipwreck. The implication was that praying protect one from drowning. Diagoras asked, "where were the pictures of those who prayed, then drowned?"... The drowned worshippers, being dead, would have a lot of trouble advertising their experiences from the bottom of the sea. This can fool the casual observer into believing in miracles. 
+
+AS drowned worshippers do not write histories of their experiences (it is better to be alive for that) so it is with the losers of history, whether people or ideas. 
+
+"Such is the way of all superstition, whether in astrology, dreams, omens, divine judgements, or the like" - Francis Bacon
+
+Silent evidence pervades everything connected to the notion of history. (History being "any succession of events seen with the effect of posteriority")... unless they are drilled into us systematically, or integrated into our way of thinking, these great observations are rapidly forgotten. 
+
+This bias extends to
+- the ascription of factors in the success of ideas and religions,
+- the illusion of skill in many professions,
+- success in artistic occupations,
+- nature vs nurture debate,
+- mistakes in using evidence in the court of law,
+- illusions about the "logic" of history,
+- most severely (relevant to Black Swan), the nature of extreme events.
+
+It is so easy to avoid looking at the cemetery while concocting historical theories... it is a problem with the way we construct samples and gather evidence in every domain. 
+
+The neglect of silent evidence is endemic to the way we study comparative talent, particular in activities plagued with winner-take-all attributes... there is no point reading too much into success stories because we do not see the full picture. 
+
+Numerous studies of millionaire aimed at figuring out the skills required for hotshot-ness follow the following methodology. They take a population of hotshots, those with big titles and big jobs, and study their attributes. They look at what those big guns have in common: courage, risk-taking, optimism, and so on, and infer these traits help you become successful... Now consider the cemetery. The graveyard of failed persons will be full of people who shared the [same] traits.... what truly separates the two is luck.
+
+## In government
+
+"What We See and What We Don't See" Bastiat
+
+We can see what governments do... but we do not see the alternative... governments are great at telling you what they did, but not what they did not do.... they engage in what could be labelled as phony philanthropy, the activity of helping people in a visible and sensational way without taking into account the unseen cemetery of invisible consequences... Consider job protection measures: you notice those jobs who are made safe and ascribe social benefits to such protections. You do _not_ notice the effect of those who cannot find a job as a result, since the measure will reduce job openings. 
