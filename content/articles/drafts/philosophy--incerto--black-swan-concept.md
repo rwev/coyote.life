@@ -207,3 +207,17 @@ Numerous studies of millionaire aimed at figuring out the skills required for ho
 "What We See and What We Don't See" Bastiat
 
 We can see what governments do... but we do not see the alternative... governments are great at telling you what they did, but not what they did not do.... they engage in what could be labelled as phony philanthropy, the activity of helping people in a visible and sensational way without taking into account the unseen cemetery of invisible consequences... Consider job protection measures: you notice those jobs who are made safe and ascribe social benefits to such protections. You do _not_ notice the effect of those who cannot find a job as a result, since the measure will reduce job openings. 
+
+We are explanation-seeking animals who tend to think everything has an identifiable cause and grab the most apparent as _the_ explanation. Yet there may not be a visible because; to the contrary, frequently there is nothing, not even a spectrum of possible explanations. But silent evidence masks this fact. Whenever our survival is in play, the very notion of because is severely weakened.
+
+Silent evidence is not present in ["optimal" evolutionary fitness] theories. Evolution is a series of flukes, some good, many bad. You only see the good. But in the short term, it's not obvious which traits are really good for you, particularly if you are in [a] Black Swan-generating environment. 
+
+Whenever survival is in play, don't immediately look for causes and effects. The main identifiable reason for [our] survival might simply be inaccessible to us: [we] are here since the "rosy" scenario played out... we are too brainwashed by notions of causality and we think that it is smarter to say _because_ than to accept randomness.
+
+We are taking a condition, survival, and looking for the explanations, instead of flipping the argument on its head and stating _conditional on such survival_, one cannot read _that_ much into the process, and should learn to instead invoke some measure of randomness [equivalently pleading ignorance, as randomness, in practice, is what we don't know]... have the integrity to deliver your "because" very sparingly; try to limit it to situations where the "because" is derived from experiments, not backward-looking history. 
+
+My biggest problem with the education system lies precisely in that it forces students to squeeze explanations out of  subject matters and _shames_ them for withholding judgement, for uttering the "I don't know."
+
+I am not saying causes do not exist; do not use this argument to avoid trying to learn from history. All I am saying is that it is _not so simple_; be suspicious of the "because" and handle it with care -- particularly in situations where you suspect silent evidence... silent evidence [causes] deformation in our perception of empirical reality, making it appear more explainable (and more stable) than it actually is... our perceptual system may not react to what does not lie in front of our eyes, or what does not arouse our emotional attention. We are made to be superficial, to heed what we see and not heed what does not vividly come to mind... out of sight, out of mind: we harbor a natural, even physical, scorn of the abstract.
+
+
