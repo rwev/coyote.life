@@ -220,4 +220,31 @@ My biggest problem with the education system lies precisely in that it forces st
 
 I am not saying causes do not exist; do not use this argument to avoid trying to learn from history. All I am saying is that it is _not so simple_; be suspicious of the "because" and handle it with care -- particularly in situations where you suspect silent evidence... silent evidence [causes] deformation in our perception of empirical reality, making it appear more explainable (and more stable) than it actually is... our perceptual system may not react to what does not lie in front of our eyes, or what does not arouse our emotional attention. We are made to be superficial, to heed what we see and not heed what does not vividly come to mind... out of sight, out of mind: we harbor a natural, even physical, scorn of the abstract.
 
+# LUDIC FALLACY & THE UNCERTAINTY OF THE NERD
+
+Fat Tony & Dr John pg 124
+
+There is a sterile and obscurantist quality that is often associated with classroom knowledge that may get in the way of understanding what's going on in real life. In an IQ test, Dr. John [NNT's prototypical nerd, "someone who thinks exceedingly inside the box"] would vastly outperform Fat Tony [NNT's raw, skin-in-the-game, no BS practitioner]. But Fat Tony would outperform Dr. John in any other possible ecological, real-life situation. In fact, Fat Tony, in spite of his lack of culture, has an enormous curiosity about the texture of reality, and his own erudition - to me, he is more scientific, in the literal sense, than Dr. John. 
+
+The difference between the Fat Tony and Dr John... between two varieties of knowledge... the Platonic and the a-Platonic... while the problem is general, one of its nastiest illusions is what I call the ludic fallacy - the attributes of uncertainty we face in real life have little connection to the sterilized ones we encounter in exams and games.
+
+Ludic comes from _ludus_, Latin for games... gambling [is] sterilized and domesticated uncertainty... the only human venture where the probabilities are known, Gaussian (i.e. bell curve), and almost computable... In real life you do not know the odds; you need to discover them, and the sources of uncertainty are not defined... "computable" risks are largely absent from real life.
+
+Those who spend too much time with their noses glued to maps will tend to mistake the map for the territory.
+
+Probability is a liberal art; it is a child of skepticism, not a tool for people with calculators on their belts to satisfy their desire to produce fancy calculations and certainties... fuzziness is the very nature of uncertainty... [prompt your brain to first] think, not compute. 
+
+## WRAPPING TOGETHER
+
+_The cosmetic and the Platonic naturally rise to the surface_:
+
+- extension of the problem of knowledge; one side of Eco's library, the one we never see [the "antilibrary"], has the property of being ignored [we overvalue what we know and undervalue what we don't know; the asymmetry of knowledge]
+- the problem of silent evidence; it is why we do not see Black Swans: we worry about those that happened, not those that may happen but _did_ not. 
+-  it is why we platonify, liking known schemas and well-organized knowledge - to the point of blindness to reality. 
+-  it is why we fall for the problem of induction, why we _confirm_ (the turkey).
+-  it is why those who "study" and fare well in school have a tendency to be suckers for the ludic fallacy. 
+
+
+We love the tangible, the confirmation, the palpable, the real, the visible, the concrete, the known, the seen, the vivid, the visual, the social, the embedded, the emotionally laden, the salient, the stereotypical, the moving, the theatrical, the romanced, the cosmetic, the official, and the scholarly-sounding... we are not manufactured... to understand abstract matters... randomness and uncertainty are abstractions. We respect what has happened, ignoring what could have happened... we are naturally shallow and superficial... the dark side of the moon is harder to see; beaming light on it costs energy... train yourself to spot the difference between the sensational and the empirical. 
+
 
