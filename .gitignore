@@ -1,5 +1,6 @@
 *.pyc
 /pelican-plugins
 /output
+/venv
 /public
 /mesa

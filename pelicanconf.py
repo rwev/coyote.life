@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-from __future__ import unicode_literals
-
 import sys
 import os
 
@@ -63,15 +61,16 @@ AUTHOR_PAGE_PATH = os.path.join(AUTOPAGES_PATH, "authors")
 CATEGORY_PAGE_PATH = os.path.join(AUTOPAGES_PATH, "categories")
 TAG_PAGE_PATH = os.path.join(AUTOPAGES_PATH, "tags")
 
-# encrypt_content
-ENCRYPT_CONTENT = {
-    "title_prefix": "[Encrypted]",
-    "summary": "This content is password protected.",
-}
 
 # photos
 PHOTO_LIBRARY = "./content/assets/images"
 PHOTO_EXIF_COPYRIGHT_AUTHOR = "Ryan William"
+
+# 1.33~ width / height ratio
+# (width, height, quality % of max)
+PHOTO_GALLERY = (2000, 1500, 95)
+PHOTO_ARTICLE = (760, 506, 95)
+PHOTO_THUMB = (300, 225, 70)
 
 # sitemap
 SITEMAP = {
@@ -87,3 +86,4 @@ SITEMAP = {
         "pages": "monthly"
     }
 }
+
