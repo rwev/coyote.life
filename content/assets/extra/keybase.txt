@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/rwev
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://coyote.life
+  * I am rwev (https://keybase.io/rwev) on keybase.
+  * I have a public key with fingerprint 3D0A 484B 0D60 1C04 90E4  9AB2 F348 9370 83D4 EEB8
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010105d18b6cea2a69b72334275644a54ed284bb8d078dd9068ee2328ab122a11a2b0a",
+      "fingerprint": "3d0a484b0d601c0490e49ab2f348937083d4eeb8",
+      "host": "keybase.io",
+      "key_id": "f348937083d4eeb8",
+      "kid": "010105d18b6cea2a69b72334275644a54ed284bb8d078dd9068ee2328ab122a11a2b0a",
+      "uid": "0b800529a3ab215e3ba891a7e16d4519",
+      "username": "rwev"
+    },
+    "service": {
+      "hostname": "coyote.life",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1582220183,
+  "expire_in": 157680000,
+  "prev": "dd786ca3dff82de24060a1ed4f94ce16ca291c37728bb8093de3349857eafda6",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMImAnicrVJbSBRRGN5VM9zIpHwoLMqpHkqJM2duZ7Yoy4UKy4QIMcztzJyz6+A6
+s86O25pK3roQlURkbz10eahAhbQ7lGZ0ETKizBCyB8Giki5WL2mdsXrrMc7D4fz/
+933n+z/+vtnJHp/3TGTbzY6Hi897+3tOVHvKCu+equU0i9Rw/lqugk5fNEJozAlW
+GITzc4BnRyI80mSdYohlVVOgIIhQkWRRxJJICUSipiECFESICmREKRQgwhoPIeZ5
+DDWAuVwuZJhhakdtw3SYrEAAFhkPEBnwOhBVQEUVazAkiEgVFIAEIlKqIUYst2Iu
+g5nTcIyuMixWY4/gtL1/4P+z7+rfchoCQIIqFphJXqKChpHKY4XyMhElXnWBMWqb
+uJIytL2Hxrn6XI5V4oZO3VDdKf50davGcuiqiBGijBa1LcfSrQhrlDtONOZ3iU5N
+1EXuoVrwj0ZQM0zCImSMOLVjhmVyfp4hdcdwRXkJQQgBj4Rcjiaihk2DhouQFJkZ
+B8D9h3nyc4QoSNaxQEIhBAmFIpAB5ikRQ6qos2l0DFVeFxQFIhYOUAVCWWoqkhSK
+QwTLnDtVlWkxbZn5xGGmGTPCJnaqbcrV994pTfF4fZ7UGUnubnl8aRl/N26ibubU
+ylS+rRPvPug0LJ/Xfe57/tmLDa+l0LMPX5sCacnrRi79sA80jk5uXLrjRXJHvLvz
+XaT1/SdS+cSaWjA0fjc5fXnZt8Ag7X/78d6tnBTv5/dPdl7J8xhvLhT7HzTmrVh7
+/ahw+Mh+75r2pLW7vmQHUNg/a2qs6fmR9MxBWBp4mN+T8bPXVxyZcfl4VuayxHjh
+vsSn26vH65O29z/+ktHua2nvTlx4VdC3ZHjkZl1J15xFe29dLCrpMnMmybXUQwU3
+hjqzHuWeDLc222P9xT7jULD5zvz8sTZ4tmrh1sIt4XsFVzfPFSeyTxdt2Hxskzkw
+psLWdLBifaL55dPh+y3DzwdGR38BEchAQQ==
+=5l3A
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rwev
+
+==================================================================

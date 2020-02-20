@@ -6,6 +6,8 @@ Status: published
 
 We took delivery of our long-converted International School Bus, Sunday 06/24/2019.
 
+<div><!-- TODO SHELL_BEGIN -->hledger bal -f ~/.ledger/4x4 | head -n -2<!-- SHELL_END --></div>
+
 Delma, as she is affectionately named, is a 1979 SV International S1723 body and 1982 International 6.4L 392cid V8. She got her RV title decades ago.
 
 Our theory with purchasing this particularly bus was as follows. 

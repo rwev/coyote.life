@@ -30,7 +30,8 @@ STATIC_PATHS = ["assets"]
 
 EXTRA_PATH_METADATA = {
     'assets/extra/robots.txt': {'path': 'robots.txt'},
-    'assets/extra/favicon.ico': {'path': 'favicon.ico'}
+    'assets/extra/favicon.ico': {'path': 'favicon.ico'},
+    'assets/extra/keybase.txt': {'path': 'keybase.txt'}
 }
 
 ARTICLE_PATHS = ["articles/published"]
@@ -61,6 +62,14 @@ AUTHOR_PAGE_PATH = os.path.join(AUTOPAGES_PATH, "authors")
 CATEGORY_PAGE_PATH = os.path.join(AUTOPAGES_PATH, "categories")
 TAG_PAGE_PATH = os.path.join(AUTOPAGES_PATH, "tags")
 
+# deadlinks
+DEADLINK_OPTS = {
+    'archive':  True,
+    'classes': [], # TODO
+    'labels':   False,
+    'timeout_duration_ms': 1000,
+    'timeout_is_error':    True,
+}
 
 # photos
 PHOTO_LIBRARY = "./content/assets/images"
