@@ -43,16 +43,17 @@ DEFAULT_LANG = "en"
 # PLUGINS
 PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = [
-    "filetime_from_git",
     "autopages",
-    "similar_posts",
-    "neighbors",
-    "section_number",
-    "more_categories",
+    "filetime_from_git",
     "gzip_cache",
+    "more_categories",
+    "neighbors",
     "photos",
+    "section_number",
+    "shell_pipe"
+    "similar_posts",
+    "sitemap",
     "summary",
-    "sitemap"
 ]
 
 # autopages
