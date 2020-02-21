@@ -50,7 +50,7 @@ PLUGINS = [
     "neighbors",
     "photos",
     "section_number",
-    "shell_pipe"
+    "shell_pipe",
     "similar_posts",
     "sitemap",
     "summary",

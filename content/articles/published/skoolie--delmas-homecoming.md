@@ -1,14 +1,11 @@
-Title: Delma's Homecoming
+Title: Back to Skool: Delma's Homecoming
 Category: skoolie
 Tags: adventure,independence,west
 Gallery: {photo}skoolie-initial
-
 Status: published
-Date: 2019-01-01
 
-We took delivery of our long-converted International School Bus, Sunday 06/24/2019.
 
-<pre><!-- TODO SHELL_BEGIN -->hledger bal -f ~/.ledger/4x4 | head -n -2 | sed -z 's/\n/<br>/g'<!-- SHELL_END --></pre>
+We took delivery of our long-converted International School Bus, a "skoolie", on Sunday 06/24/2019.
 
 Delma, as she is affectionately named, is a 1979 SV International S1723 body and 1982 International 6.4L 392cid V8. She got her RV title decades ago.
 
