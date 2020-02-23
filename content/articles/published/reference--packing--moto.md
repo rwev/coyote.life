@@ -38,6 +38,7 @@ Gear list for specific overnight motorcycle trips. To be considered in addition 
 - tube inflation gas canisters
 - tire patch kit 
 - fuel hose (replacement, siphoning)
+- leatherman wave
 
 ## spare parts
 - spark plug
