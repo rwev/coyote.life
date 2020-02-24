@@ -60,13 +60,19 @@ No ultimatum is made  by brand, although preference was given to generic-branded
 - scalpel, havalon piranta replacement blade, 60A carbon stainless, sterile, 1 blade
 - 3M nexcare absolute waterproof tape, 1" width, 18-30" (wrapped on plastic card)
 - 3M nexcare clear first aid tape, 1" width, 24" - 40" (wrapped on plastic card)
-- quikclot combat gauze, traumatic bleeding hemostatic dressing, vacuum-packed z-folded, 3" x 4 yd 
+- quik-clot combat gauze, traumatic bleeding hemostatic dressing, vacuum-packed z-folded, 3" x 4 yd 
 
 Not pictured, but since added:
 
 - waterproof adhesive transparent dressing / bandage 
 - 3M steri-strip reinforced skin closures - 1/2" x 4" x 6 strip envelope
 
-Everything is packed in a deliberate order, offering both the obvious appearance as a first aid kit and also transparency into its contents. The containment bag is thick, tough mylar - a military surplus "document envelope", national stock number (NSN) 8105-00-334-4120. 
+Everything is packed in a deliberate order, offering both the obvious appearance as a first aid kit and also transparency into its contents. 
+
+Also note that the supplies critical to control the most urgent wounds, i.e. the sponges and quik-clot, are nearest to the zip-lock opening for optimal accessibility under duress.  
+
+The containment bag is thick, tough mylar - a military surplus "document envelope", national stock number (NSN) 8105-00-334-4120. 
 
 All in, the kit weighs in at 9.4 oz, as pictured, and without the optional waterjel burn dressing, closer to 6.5 oz. 
+
+I keep this IFAK level 1 kit in every vehicle, in my outdoor gear for packing on outings and excursions, in each every-day carry (EDC) loadout, and in my construction / projects tool box. 
