@@ -1,7 +1,6 @@
 Title: Skoolie Budget
 Category: skoolie
 Tags: money
-
 Status: published
 Date: 2020-01-01
 
