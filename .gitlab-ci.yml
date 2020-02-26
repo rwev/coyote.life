@@ -9,6 +9,7 @@ pages:
 
     # fetch protected input data
     - git clone https://rwev:${GITLABP}@gitlab.com/rwev/evix.dat.git
+    - rm -r ./evix.dat/.git
     - mv ./evix.dat/.[!.]* ./
 
     # install additional pelican requirements
