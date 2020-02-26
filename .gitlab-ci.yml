@@ -3,12 +3,12 @@ image: python:3.8.1
 pages:
   stage: deploy
   script:
-    - add-apt-repository http://archive.ubuntu.com/ubuntu/
+    - apt-get update && apt-get install software-properties-common && add-apt-repository http://archive.ubuntu.com/ubuntu/
+    - apt-get install hledger
     - git clone https://rwev:${GITLABP}@gitlab.com/rwev/evix.dat.git && mv evix.dat/.* ./
     - pip install -r requirements.txt
     - git clone https://gitlab.com/rwev/mesa.git
     - git clone --recurse-submodules https://gitlab.com/rwev/pelican-plugins.git
-    - curl -sO https://raw.githubusercontent.com/simonmichael/hledger/master/hledger-install/hledger-install.sh && bash ./hledger-install.sh
     - invoke styles
     - make publish
   artifacts:
