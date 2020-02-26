@@ -6,7 +6,8 @@ pages:
     - pip install -r requirements.txt
     - git clone https://gitlab.com/rwev/mesa.git
     - git clone --recurse-submodules https://gitlab.com/rwev/pelican-plugins.git
-    - apt-get install hledger && git clone https://rwev:${GITLABP}@gitlab.com/rwev/evix.dat.git
+    - curl -sO https://raw.githubusercontent.com/simonmichael/hledger/master/hledger-install/hledger-install.sh && bash ./hledger-install.sh
+    - git clone https://rwev:${GITLABP}@gitlab.com/rwev/evix.dat.git && mv evix.dat/.* ./
     - invoke styles
     - make publish
   artifacts:
