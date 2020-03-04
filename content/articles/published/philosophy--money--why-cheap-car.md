@@ -12,7 +12,7 @@ There are two dimensions to freedom here, closely related: _monetary_ and _mater
 
 ### Material 
 
-Old cars, at least the off-road-capable ones that I drive, are generally already well-worn, and have scores of scuffs and scrapes and dents and broken non-essentials (cosmetic elements), otherwise called _personality_, with admiration.
+Old cars, particularly off-road-capable light duty SUVs, are generally already well-worn, and have scores of scuffs and scrapes and dents and broken non-essentials (cosmetic elements), otherwise called _personality_ with admiration. 
 
 There is no minor damage that could be done to the vehicle that would affect its service life, or incite any level of depreciation. Any new stratches, dings, dirt, stains, or other cosmetic imperfections would blend right in. 
 
@@ -28,6 +28,8 @@ Spilled cup of coffee on the dash and carpet? Need to find a wet-dry vacuum stat
 
 The financial and perhaps more importantly _mental_ costs associated with newer car ownership are significantly higher.  
 
+Material freedom boils down to _owning your stuff_, not letting your stuff own you. 
+
 ### Monetary
 
 The vehicles that are theoretically best suited for backcountry, off-road travel are rarely the ones out there.  The brand new rigs with the tunes, the upgrades, winch, roll-bars, are the ones sitting in driveways and apartment complex parking lots, day after day, weekend after weekend, in mint & unused (of course well washed) condition. 
@@ -42,7 +44,13 @@ In the words of this [fellow r/overlanding user](https://www.reddit.com/r/overla
 
 Driving a $500 Jeep, he has _done_ more than others following a different model:pouring money into their overbuilt & pristine rigs that sit in their garage and depreciate while they are stuck at working paying for them.
 
-### Reliability & The Bathtub Curve 
+The debt load and general financial strain associated with high-priced vehicles puts the bird in a cage, and should be avoided at all costs: choose _doing_ over having. 
+
+#### Self-Insuring
+
+By owning an old vehicle and having fewer monetary resources tied up (fewer eggs in the basket), one is free to bear the risk of collision themselves, saving hundreds, even thousands of dollars per year on the cost of full-collision insurance. 
+
+## Reliability & The Bathtub Curve 
 
 The common misconception about old cars, and thus a justification for buying a new one is that newer cars are more reliable, while old ones are ticking time bombs. 
 
@@ -62,9 +70,9 @@ Old cars are "burned in" and matured into adulthood, while new cars are still pr
 
 ## Simplicity
 
-In the case when an older vehicle needs critical maintenance, which may be less often than an infant vehicle, it is significantly likely to cost less (time & money), because the repair procedure is less complicated, and thus self-repair can realistically be performed amateur knowledge and access to tools.
+In the case when an older vehicle needs critical maintenance, which may be less often than an infant vehicle, it is likely to cost less (time & money), because the repair procedure is less complicated, and thus self-repair can realistically be performed with amateur knowledge and access to tools.
 
-
+Even if DIY isn't an option, the simplicity of the system as well as cheaper, more ubiquitous replacement parts will make the trips to the shop less expensive, involving fewer hours of labor. 
 
 
 
