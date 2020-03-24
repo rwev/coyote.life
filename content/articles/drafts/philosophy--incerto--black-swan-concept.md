@@ -247,4 +247,35 @@ _The cosmetic and the Platonic naturally rise to the surface_:
 
 We love the tangible, the confirmation, the palpable, the real, the visible, the concrete, the known, the seen, the vivid, the visual, the social, the embedded, the emotionally laden, the salient, the stereotypical, the moving, the theatrical, the romanced, the cosmetic, the official, and the scholarly-sounding... we are not manufactured... to understand abstract matters... randomness and uncertainty are abstractions. We respect what has happened, ignoring what could have happened... we are naturally shallow and superficial... the dark side of the moon is harder to see; beaming light on it costs energy... train yourself to spot the difference between the sensational and the empirical. 
 
+# PART II: WE JUST CAN'T PREDICT
+
+We tend to "tunnel" while looking into the futures, making it business usual, Black-Swan-free, when in fact there is nothing usual about the future... the focus on the (inconsequential) regular, the Platonification that makes the forecasting "inside the box."
+
+In spite of the empirical record, we continue to project into the future as if we were good at it... prediction is firmly institutionalized in our world. We are sucker for those who help us navigate uncertainty.
+
+The gains in our ability to model (and predict) the world may be dwarfed by increases in its complexity -- implying a greater and greater role for the unpredicted.
+
+"The future ain't what it used to be" - Yogi Berra
+
+Epistemic arrogance: our hubris concerning the limits of our knowledge
+
+True, our knowledge does grow, but it is threatened by greater increases in confidence, which make our increase in knowledge at the same time an increase in confusion, ignorance, and conceit. 
+
+Epistemic arrogance bears a double effect:
+
+- we overestimate what we know, and
+- underestimate uncertainty
+
+When you are employed, hence dependent on other people's judgement, looking busy can help you claim responsibility for the results in a random environment. The appearance of busyness reinforces the perception of causality, of the link between results and one's role in them. 
+
+THE TOXICITY OF INFORMATION
+
+additional knowledge of the minutiae of daily business can useless, even toxic... the more information you give someone, the more hypotheses they will formulate along the way, and the worse off they will be. They see more random noise and mistake it for information. 
+
+The problem is that our ideas are sticky: once we produce a theory, we are not likely to change our minds -- so those who delay developing theories are better off. When you develop your opinions on the basis of weak evidence, you will have difficulty interpreting subsequent information that contradicts there opinions (confirmation bias & belief perseverance).
+
+... the more detailing knowledge one gets of empirical reality, the more one will see the noise (i.e. in daily life, the anecdote) and mistake it for information. Remember that we are swayed by the sensational. 
+
+Listening to the news on radio every hour is far worse for you than reading a weekly magazine, because the longer interval allows (dis-)information to be filtered a bit.
+
 
