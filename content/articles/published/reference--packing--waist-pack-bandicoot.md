@@ -1,6 +1,6 @@
 Title: Waist Pack for Sub-/Urban EDC
 Category: reference/packing
-Tags: ccw,edc,ifak,prep
+Tags: ccw,edc,ifak,preparedness
 Gallery: {photo}waist-pack
 Status: published
 

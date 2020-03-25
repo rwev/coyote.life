@@ -1,6 +1,6 @@
 Title: Why To Drive a Cheap Car
 Category: philosophy/money
-Tags: why,gear
+Tags: why,gear,diy,versatility
 Gallery: {photo}isuzu-rodeo
 Status: published
 

@@ -76,3 +76,15 @@ The containment bag is thick, tough mylar - a military surplus "document envelop
 All in, the kit weighs in at 9.4 oz, as pictured, and without the optional waterjel burn dressing, closer to 6.5 oz. 
 
 I keep this IFAK level 1 kit in every vehicle, in my outdoor gear for packing on outings and excursions, in each every-day carry (EDC) loadout, and in my construction / projects tool box. 
+
+
+## Level 0
+
+Although the complete Level 1 kit listed above is quite lightweight, it is ill-suited to integration into compact EDC systems due to its bulk. 
+
+The Level 0 kit is a trimmer variant of the Level 1 kit, containing a subset of items, while preserving much of the capability in a denser package. 
+
+In particular, the Level 0 excludes the notably voluminous covidien kerlix sponges, and reduces item redundancy across the board.
+
+See the Level 0 integrated in my [waist-pack](/waist-pack-for-sub-urban-edc.html) kit.
+

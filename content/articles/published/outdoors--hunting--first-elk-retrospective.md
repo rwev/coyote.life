@@ -1,6 +1,6 @@
 Title: First Elk Hunt Retrospective
 Category: sportsmanship/hunting
-Tags: elk,outdoors,adventure
+Tags: elk,outdoors,adventure,diy
 Gallery: {photo}first-elk-hunt
 Status: published
 

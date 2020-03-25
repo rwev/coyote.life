@@ -1,6 +1,6 @@
 Title: Dual Sport ADV Motorcycle Packing List
 Category: reference/packing
-Tags: list
+Tags: gear
 Gallery: {photo}motorcycle-tool-kit
 Status: published
 

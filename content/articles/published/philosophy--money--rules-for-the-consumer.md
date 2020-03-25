@@ -47,6 +47,10 @@ No consumption is good for the environment -- using objects that already exists,
 to its full useful life will always be better for the environment, as the environmental consequences have already been done, and 
 any new production of that object will involve a new and separate environmental cost, even if that cost is lower. 
 
+Further, measure the value of products _absolutely_, in terms what they mean to _you_. Don't get distracted with relativity, getting carried away with peer comparison or percentage discounts. Your dollars are in a sense sweat and time: don't squander them buying things for the sake of other people as a facade. Ponder internal enrichment first.
+
+It's all part of corporate strategy to distracts from what is important and what will serve us in a healthy relationship with the things we consume; they desire a constant churn driven by discontentment and inadequacy.
+
 Put your guard up; stay skeptical. Always examine the meaning of an economic action or inaction from above.  
 
 ## Make it Last
