@@ -8,6 +8,8 @@ Gear list for specific overnight motorcycle trips. To be considered in addition 
 
 # maintenance / repairs
 
+The tools (or sizes thereof) & spare parts listed here are suited to service a 1983 Honda XL600; take stock and adjust appropriately for other vehicles. 
+
 ## tool roll
 - lubricant (multi-use, wd-40 choice, 3 oz. can)
 - notepad + pen (for records, notes, tire pressures, oil changes, mileages, etc.)
@@ -38,7 +40,7 @@ Gear list for specific overnight motorcycle trips. To be considered in addition 
 - tube inflation gas canisters
 - tire patch kit 
 - fuel hose (replacement, siphoning)
-- leatherman wave
+- leatherman wave multitool
 
 ## spare parts
 - spark plug

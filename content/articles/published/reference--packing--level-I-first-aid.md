@@ -47,7 +47,11 @@ It is versatile and ready for unknown.
 
 # The Contents
 
-No ultimatum is made  by brand, although preference was given to generic-branded, USA-made materials for maximization of value. Here's the list of contents:
+No ultimatum is made  by brand, although preference was given to generic-branded, USA-made materials for maximization of value. 
+
+Not everything is pictured as listed, as the first aid kit is in service and supplies and intermittently depleted as used, or replenished with on-hand supplies of other brands.
+
+Here's the list of contents:
 
 - FAO (first aid only) triple antibiotic ointment, 3-5 0.9g packets
 - FAO first aid / burn cream, 3-5 0.9 packets
@@ -55,14 +59,16 @@ No ultimatum is made  by brand, although preference was given to generic-branded
 - FAO benzalkonium chloride antiseptic towelettes, 2-3
 - covidien 3085 kerlix super sponge, medium, 6" x 6 3/4", 1 pouch of 5
 - covidien 1238 telfa non-adherent Pads / dressings, prepack, 8" x 3", 3-4 units 
-- exactmed nylon monofilament non-absorbable surgical sutures, sterile, 1-2
+- exactmed nylon monofilament non-absorbant surgical sutures, sterile, 1-2
 - amex medical blue nitrile gloves, 4 mil, latex/powder free, 3-5 gloves
 - scalpel, havalon piranta replacement blade, 60A carbon stainless, sterile, 1 blade
 - 3M nexcare absolute waterproof tape, 1" width, 18-30" (wrapped on plastic card)
 - 3M nexcare clear first aid tape, 1" width, 24" - 40" (wrapped on plastic card)
 - quik-clot combat gauze, traumatic bleeding hemostatic dressing, vacuum-packed z-folded, 3" x 4 yd 
+- physician's care individually wrapped tablets: aspirin, non-aspirin (acetaminophen), ibuprofen, antacid (3-4 each)
+- chlor-floc water treatment tablets (2-4)
 
-Not pictured, but since added:
+Edits, added since original post:
 
 - waterproof adhesive transparent dressing / bandage 
 - 3M steri-strip reinforced skin closures - 1/2" x 4" x 6 strip envelope

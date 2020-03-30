@@ -3,6 +3,8 @@ Category: philosophy/incerto
 Tags: risk,sitg,antifragility,versatility,nnt
 Status: published
 
+<!-- TODO the cockroach & the panda -->
+
 The modern, global economy is powered by specialization: the levels of efficiency it offers enables mass production of our day. 
 
 Specialization implies that an entity is very good at performing its actions in a static environment with a set of predictable, replicable factors that are either constant or exhibit [ergodic](https://en.wikipedia.org/wiki/Ergodicity) behavior. A tangible example of this is on the assembly line: for a worker to contribute her operation to the line an industrial level of efficiency, the state of the input and output object is strictly controlled. 
@@ -24,4 +26,5 @@ Entities in such an economy become overspecialized and oversensitive. They can't
 So what is the solution? Entities in the market could become more aware of downside, and make themselves more adaptable. This involves investing in assets, perhaps intellectual or infrastructural, that don't immediately boost the bottom line but expand general robustness. 
 
 Just the _mindset_ that change is near and the static doesn't survive makes a difference. Pop the bubble of assumptions bottom-up.
+
 
