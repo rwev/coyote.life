@@ -278,4 +278,26 @@ The problem is that our ideas are sticky: once we produce a theory, we are not l
 
 Listening to the news on radio every hour is far worse for you than reading a weekly magazine, because the longer interval allows (dis-)information to be filtered a bit.
 
+# THE EXPERT PROBLEM, OR THE TRAGEDY OF THE EMPTY SUIT
+
+We have no questions the authority of professionals but rather their ability to gauge the boundaries of their own knowledge...Do not question [an expert's] procedure, only his confidence.
+
+Arrogance mixed with incompetence: the empty suit
+
+The Greeks made a distinction between techne ("know-how") and episteme ("know-what")... the empirical school(s) of medicine wanted its practitioners to stay closest to techne (craft) and away from episteme (knowledge)
+
+Simply, _things that move_, and therefore require knowledge, do not usually have experts, while things that don't move seem to have some experts. In other words, professions that deal with the future and base their studies on the non-repeatable past have an expert problem.
+
+Experts are narrowly focused persons who need to "tunnel." In situations where tunneling is safe, because Black Swans are not consequential, the expert will do well... the problem with experts is that they do not know what they do not know (self-delusion). Lack of knowledge and delusion about the quality of your knowledge come together - the same process that makes you know less also makes you satisfied with your knowledge (see Kruger-Dunning).
+
+[A study by Tetlock  on experts, their reputations, and their predictions] exposed an expert problem: there was no difference in results whether one had a PhD or an undergraduate degree. Well-published professors had not advantage over journalists. The only regularity [Tetlock found] was the _negative_ effect of reputation on prediction: those who had a big reputation were _worse_ predictors than those who had none. 
+
+There seemed to be logic (rationalization) to such incompetence, mostly in the forms of belief defense, or the protection of self esteem. The mechanisms by which [the experts] generated ex-post explanations: 
+
+- _You tell yourself that you were playing a different game._ [or that you tried to predict the wrong event with the wrong data]. 
+- _You invoke the outlier._ Something happened that was outside the system, outside the scope of your [narrow] science. Given that it was not predictable, you are not to blame. It was a Black Swan and you are not supposed to predict Black Swans [which are fundamentally unpredictable]. Such events are "exogenous", coming from outside your science... This focus on the narrow game and linking one's performance to a given script is how the nerds explain the failures of mathematical methods in society. 
+
+The "experts" [are] lopsided: on the occasions when they were right, they attributed it to their own depth of understanding and expertise; when wrong, it was either the situation that was to blame, since it was "unusual", or, worse, they did not recognize that they were wrong and spun stories around it... there is something in us designed to protect our self-esteem.
+
+We humans are the victim of an asymmetry in the perception of random events. We attribute our successes to our skills, and our failures to external events outside our control, namely to randomness... This causes us to think that we are better than others at whatever we do for a living. 
 
