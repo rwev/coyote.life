@@ -1,11 +1,11 @@
-Title: The Road to Fragility is Specialization
+Title: Fragility is Specialization
 Category: philosophy/incerto
 Tags: risk,sitg,antifragility,versatility,nnt
 Status: published
 
 <!-- TODO the cockroach & the panda -->
 
-The modern, global economy is powered by specialization: the levels of efficiency it offers enables mass production of our day. 
+The modern, global economy is powered by specialization: the levels of efficiency it offers enables cheap, mass production of our day. 
 
 Specialization implies that an entity is very good at performing its actions in a static environment with a set of predictable, replicable factors that are either constant or exhibit [ergodic](https://en.wikipedia.org/wiki/Ergodicity) behavior. A tangible example of this is on the assembly line: for a worker to contribute her operation to the line an industrial level of efficiency, the state of the input and output object is strictly controlled. 
 
