@@ -1,6 +1,5 @@
 Title: Free Speech & the Regulation Temptation
-Category: philosophy/politics
-Tags: liberty,democracy
+Category: philosophy
 Status: published
 
 I value free speech, as is the base case for citizens of Western society.

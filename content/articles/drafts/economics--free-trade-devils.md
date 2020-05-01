@@ -1,6 +1,5 @@
 Title: Free Trade's Hidden Devils
 Category: philosophy
-Tags: economics
 
 Free trade, and it's globalism grandfather, is lauded without consent - praised as offering mutually benefits for both sides: jobs in the land of production, cheaper costs in the land of consumption. It is hailed as economic progress, and pursued without relent as the means to the have-it-all end. 
 

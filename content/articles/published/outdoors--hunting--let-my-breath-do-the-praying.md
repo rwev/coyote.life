@@ -1,7 +1,6 @@
 Title: Let My Breath Do The Praying
 Category: outdoors/hunting
 Author: kschirms
-Tags: writing,environmentalism,independence,sitg,wild
 Status: published
 
 A poem by [kschirms](/author/kschirms.html), reflecting on our [first](/first-elk-hunt-retrospective.html) successful big game hunt.

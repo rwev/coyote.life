@@ -1,6 +1,5 @@
 Title: A Comprehensive Gearing-Up Philosophy
 Category: philosophy
-Tags: gear,versatility,dynamism,adaptability,diy
 
 Living in an ever-more commercialized and monetized capitalist western economy, it is easy to become overwhelmed at the plethora of choice in gear of all kinds: whether it is everyday clothing, accessories for free-time pursuits, household products, we are inundated with choice. 
 

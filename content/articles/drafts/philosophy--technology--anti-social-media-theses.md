@@ -1,5 +1,5 @@
 Title: An Anti-Social-Media Manifesto
-Category: Technology
+Category: philosophy
 
 
 Nailing the proverbial thesis to the on the door of a modern center of secular worship and addiction.

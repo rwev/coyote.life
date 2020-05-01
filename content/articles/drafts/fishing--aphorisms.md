@@ -1,7 +1,5 @@
 Title: Aphorisms from an Outdoorsman
 Category: philosophy/sportsmanship
-Tags: rules,fishing,hunting
-Status: published
 
 The yield of many mornings, afternoons, and evenings spent on the water or in the woods, in all sorts of weather, chasing the various creatures of the earth.
  

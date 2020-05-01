@@ -1,6 +1,5 @@
 Title: Level 1 First Aid Kit 
 Category: reference/packing
-Tags: preparedness,outdoors,adventure
 Gallery: {photo}ifak-level-1
 Status: published
 

@@ -1,6 +1,5 @@
 Title: Skoolie Why
 Category: skoolie
-Tags: why,resiliency,self-reliance,redundancy
 
 <!-- PELICAN_BEGIN_SUMMARY -->
 The rationale behind the crazy idea of living a semi-mobile life in a metal tube with an engine after it would've otherwise ended up in a scrapyard.

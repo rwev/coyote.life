@@ -1,7 +1,6 @@
 Title: Wild : An Act of Rescue
 Category: outdoors/fishing
 Author: kschirms
-Tags: writing,environmentalism,wild
 Status: published
 
 An essay by [kschirms](/author/kschirms.html) on fly fishing the wild and roaming waters of Idaho. 

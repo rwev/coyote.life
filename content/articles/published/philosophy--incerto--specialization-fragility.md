@@ -1,6 +1,5 @@
 Title: Fragility is Specialization
 Category: philosophy/incerto
-Tags: risk,sitg,antifragility,versatility,nnt
 Status: published
 
 <!-- TODO the cockroach & the panda -->

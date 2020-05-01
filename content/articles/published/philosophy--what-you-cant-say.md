@@ -1,6 +1,5 @@
 Title: Forget Fashion, Find Freedom
 Category: philosophy
-Tags: politics,morality,pg
 Status: published
 
 In Paul Graham's essay [What You Can't Say](http://www.paulgraham.com/say.html) he explains, how just as there are fashions in clothing, music, and other superficial products of the modern economy, there are moral fashions of much larger consequence.

@@ -1,6 +1,5 @@
 Title: Wealth & Technology: How To
-Category: economics
-Tags: democracy,wealth,pg
+Category: philosophy/work
 Status: published
 
 In yet another vein of philosophic gold from Paul Graham's _Hackers & Painters_ collection, the essay _[How to Make Wealth](http://www.paulgraham.com/wealth.html)_, addresses the positive interrelation between wealth and technological innovation, and the organizational structure that fosters it. 

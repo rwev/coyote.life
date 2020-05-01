@@ -1,6 +1,5 @@
-Title: The God-Given Reason of Man
-Category: spirituality
-Tags: bible,reason,nnt
+Title: Rational, in God's Image
+Category: philosophy
 Status: published
 
 Despite popular viewpoint that faith and rationality are incompatible, the discussion of mind and heart carries throughout the Bible, and man's ability to reason is central to his uniqueness as the only souled, God-imaged creature. 

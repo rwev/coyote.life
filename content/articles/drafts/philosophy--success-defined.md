@@ -1,6 +1,5 @@
 Title: Success Redefined
 Category: philosophy
-Tags: success,happiness,contentment
 
 Happiness is determined by how one deals (in processing and perspective) with circumstances, not by them. Our market-driven economic and culture driven by material success and excess consumption tells us the opposite: that we will be happy when we achieve a certain level of status, consumption, security. 
   

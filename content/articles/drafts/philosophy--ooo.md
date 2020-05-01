@@ -1,6 +1,5 @@
 Title: Out of (Corporate) Office, Forever
 Category: philosophy
-Tags: spirituality,economics,work,money
 
 After about 18 months working at corporate development shops, I've begun to seriously 
 consider it's consequences. 

@@ -1,7 +1,5 @@
 Title: At Peace with the Project
 Category: philosophy/projects
-Tags: why,making
-
 
 
 ## Of Software and Skoolies

@@ -1,7 +1,6 @@
 Title: Late-Season Rifle Hunt Packing List
 Category: reference/packing
 Gallery: {photo}hunt-gear-late-season
-Tags: gear
 Status: published 
 
 Packing list for late-season rifle hunting in the mountain west.

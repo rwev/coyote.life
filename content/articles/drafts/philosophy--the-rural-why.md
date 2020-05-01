@@ -1,6 +1,5 @@
 Title: The Rural Why
 Category: philosophy
-Tags: sitg,independence,liberty,why
 
 A defense and explanation of the pursuit of a free, rural life, inspired by a work of similar motivation, but for the classic practice and art of fishing, [The River Why](https://en.wikipedia.org/wiki/The_River_Why). 
 

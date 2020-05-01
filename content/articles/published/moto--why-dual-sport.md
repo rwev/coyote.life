@@ -1,6 +1,5 @@
 Title: Why Dual Sport
 Category: moto
-Tags: why,gear,versatility
 Status: published
 
 To some, dual sport motorcycles represent an ugly middle ground between on-road and off-road riding: a jack of both trades, master of neither. 

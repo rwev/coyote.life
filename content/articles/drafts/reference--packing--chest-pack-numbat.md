@@ -1,6 +1,5 @@
 Title: Chest Pack for Backcountry Prudence
 Category: reference/packing
-Tags: ccw,edc,ifak,preparedness
 Gallery: {photo}chest-pack
 
 Status: published

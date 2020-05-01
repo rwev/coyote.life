@@ -1,6 +1,5 @@
 Title: Utah BDR Retrospective
 Category: moto
-Tags: adventure,west
 Gallery: {photo}utah-bdr
 Status:published
 

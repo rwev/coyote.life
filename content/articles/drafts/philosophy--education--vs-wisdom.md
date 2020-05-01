@@ -1,6 +1,5 @@
-Title: In the Fray with Knowledge and Wisomw
+Title: In the Fray with Knowledge and Wisdom
 Category: philosophy/education
-Tags: wisdom
 
 Wisdom is competence with regard to the complex realities of life. It is not simple-minded or reductionist. Wisdom comes before good intentions: good intentions are first-order, wisdom second.
 

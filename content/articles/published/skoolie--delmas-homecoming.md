@@ -1,6 +1,5 @@
 Title: Back to Skool: Delma's Homecoming
 Category: skoolie
-Tags: adventure,independence,west
 Gallery: {photo}skoolie-initial
 Status: published
 

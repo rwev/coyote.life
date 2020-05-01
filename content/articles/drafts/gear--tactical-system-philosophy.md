@@ -1,6 +1,5 @@
 Title: Tactical System Philosophy
 Category: gear
-Tags: preparedness,sheepdog,weapon,responsibility
 
 Heavily influence by [Nutnfancy](https://www.youtube.com/channel/UCbT5ssxEDZHNyz28N4Ov7Wg), my system is modelled by factors like: BOIS, 
 

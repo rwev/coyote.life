@@ -1,6 +1,5 @@
 Title: The Fisher & the Consultant
-Category: philosophy/work
-Tags: wealth
+Category: philosophy/wealth
 Status: published
 
 Originally from Latin culture.

@@ -1,7 +1,8 @@
-Title: Money and Chains
-Category: philosophy/money
-Tags: liberty,independence
-Status:published
+Title: Money & Chains
+Category: philosophy/wealth
+Status: published
+
+What could set us free wraps us in chains instead. 
 
 Money, or more broadly wealth, since the time of the Industrial Revolution, which broad a level of prosperity never before seen by humanity. Freed from the mundane and repetitive and volatile life on farms and fields, all basic human needs have been met, and are generally affordable and accessible to the majority of the population.
 
@@ -19,6 +20,5 @@ Instead I witnessed the opposite. The excess resources became collateral to offe
 
 Furthermore, the property underling the debt items are so often no where near necessary. A brand new, loaded out, overpowered extended cab truck for a software developer or business manager who commutes to work, and doesn't have the time or range of interests to get any use out of it. A two bedroom house in the suburbs for busy single man, with hardly and time or energy left at the end of the day to use kitchen or do basic cleaning and maintenance, let alone the unused rooms. It blows my mind that such purchases are typical.
 
-What could set us free wraps us in chains instead. 
 
 
