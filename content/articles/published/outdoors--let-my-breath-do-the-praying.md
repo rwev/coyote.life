@@ -1,5 +1,5 @@
 Title: Let My Breath Do The Praying
-Category: outdoors/hunting
+Category: outdoors
 Author: kschirms
 Status: published
 

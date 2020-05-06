@@ -1,5 +1,5 @@
 Title: First Elk Hunt Retrospective
-Category: outdoors/hunting
+Category: outdoors
 Gallery: {photo}first-elk-hunt
 Status: published
 

@@ -1,5 +1,5 @@
 Title: Utah Backcountry Discovery Route (BDR) Route & Itinerary
-Category: moto
+Category: outdoors/moto
 Status:published
 
 An overnight backcountry adventure motorcycle trip. Approximately 1000 miles off-road in the high mountain and desert country of Utah. Blistering heat, rough terrain, and an old bike (for me at least, I'll be pushing Rhonda, my 1983 Honda XL600r to her limits.) A group of eight will be riding dual-sport motorcycles, and two will be manning the support vehicle, a 4x4 rig pulling a high-clearance trailer containing boondocking supplies (cooking gear, surplus water, beer, gasoline, etc.).

@@ -1,5 +1,5 @@
-Title: Utah BDR Retrospective
-Category: moto
+Title: Utah Backcountry Discovery Route (BDR) Retrospective
+Category: outdoors/moto
 Gallery: {photo}utah-bdr
 Status:published
 

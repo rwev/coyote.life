@@ -49,7 +49,6 @@ PLUGINS = [
     "more_categories",
     "neighbors",
     "photos",
-    "section_number",
     "shell_pipe",
     "similar_posts",
     "sitemap",

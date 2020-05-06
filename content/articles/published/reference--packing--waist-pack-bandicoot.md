@@ -1,5 +1,5 @@
 Title: Waist Pack for Sub-/Urban EDC
-Category: reference/packing
+Category: reference
 Gallery: {photo}waist-pack
 Status: published
 
