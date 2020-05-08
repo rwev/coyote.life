@@ -3,9 +3,9 @@ Category: reference
 Gallery: {photo}ifak-level-1
 Status: published
 
-After doing some emergency scenario analysis, I decided that the pre-assembled store-bought first aid kit I carried was both inadequate for any sort of major emergency, and that I also didn't understand what a more capable system would look like or how to use them. Ultimately, I built one myself.   
+Emergency scenario analysis inspired me to build a kit myself. 
 
-Upon examination of the pre-packed first aid kit, and others like it, it was plainly obvious that such a kit has no ability to treat a major and urgent wound. It was all worthless in a true emergency, and amounted to nothing more than a creature-comfort kit, only able to treat the noncritical, like minor scrapes or stings with its assortments of band-aids - the exact stuff that _can_ and probably is safe to leave untreated. 
+Upon examination of the pre-packed first aid kits that I've had around for years, it was plainly obvious that such a kit has very little or no ability to treat a major and urgent wound. A majority of the contents were hardly more than a creature-comforts, and only able to treat the noncritical, like minor scrapes or stings with its assortments of band-aids: the exact stuff that can and probably is safe to leave untreated. In short, pre-assembled store-bought kits are inadequate for any true crisis. 
 
 So, I set out find a kit that would both treat what _needs_ treated in a versatile, minimal, lightweight unit, ready for the unknown, first major, then minor, and also to understand the practical application of each of the contents.   
 

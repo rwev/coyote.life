@@ -2,7 +2,9 @@ Title: The Lessons of Foster
 Category: philosophy/education
 Status: published
 
-I had a particular professor in high school that has influenced my post-high-school life more than any other school official in the previous 17 years of my existence. He didn't do it with books - in fact he hated using a book, and only did so out after being pressured by the administration - but instead with his passion.
+I had a particular professor in high school that has influenced my post-high-school life more than any other school official in the previous 17 years of my existence.
+
+He didn't do it with books - in fact he hated using a book, and only did so out after being pressured by the administration - but instead with his passion.
 
 I learned Calculus well during this time - well enough to earn passing score on the Advanced Placement test for college - but learned even more about being successful in life.
 

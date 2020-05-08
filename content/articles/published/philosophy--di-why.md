@@ -2,9 +2,9 @@ Title: D.I.Why?
 Category: philosophy
 Status: published
 
-There are lots of common justifications for outsourcing work. Whether it is repairs, upkeep, installations, upgrades, diagnostics, and essentially anything else under the sun that could be considered laborious, we've all heard these reasons and likely given them as in excuse not to do-it-ourselves.
+Whether it is repairs, upkeep, installations, upgrades, diagnostics, or anything considered laborious, many are eager to outsource. 
 
-After further consideration of these reasons, I've put some thought into debunking them, or otherwise developing a system of thought around why one should _not_ let these obstacles of thought block them from do-it-yourself pursuits.
+We've all heard reasons, and likely given them, as in excuse not to do-it-ourselves. After further consideration of these reasons, I've put some thought into debunking them, or otherwise developing a system of thought around why one should _not_ let these obstacles of thought block them from do-it-yourself pursuits.
 
 ## Mental Obstacles 
 

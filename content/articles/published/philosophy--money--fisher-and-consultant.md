@@ -2,7 +2,7 @@ Title: The Fisher & the Consultant
 Category: philosophy/wealth
 Status: published
 
-Originally from Latin culture.
+A parable teaching on why we work, originally from Latin culture.
 
 ## The Fisher and the Consultant
 

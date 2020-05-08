@@ -2,7 +2,7 @@ Title: Rational, in God's Image
 Category: philosophy
 Status: published
 
-Despite popular viewpoint that faith and rationality are incompatible, the discussion of mind and heart carries throughout the Bible, and man's ability to reason is central to his uniqueness as the only souled, God-imaged creature. 
+Despite popular viewpoint that faith and rationality are incompatible, man's ability to reason is central to his uniqueness. 
 
 Secularism and popular culture glorify the role of emotions and a life led by them, offering advice to "following one's heart" or "do what one feels." Some claim that one's emotions define them as a unique individual or fully capture the human experience at the apex of earthly consciousness. Emotions and feelings are tied to warmth and fullness, while logic and reason are deemed mechanical and cold. 
 
