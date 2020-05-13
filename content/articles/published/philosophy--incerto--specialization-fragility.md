@@ -16,14 +16,10 @@ In this condition, the entity optimizes. Assumptions and optimization are positi
 
 Specialization is naive: it assumes a world of constants, while failing to preparing for the unknown, or something even acknowledging it. With it comes fragility; entities that perform only in the space of the known, the static, the predictable are over-invested in their environment and unable to adapt when  assumptions become untrue. 
 
-## Profit & Fragility
-
-When profit is the song, efficiency is the chorus. Efficiency _enables_ profit. Profits cannot be increased without efficiency. This is the essence of capitalist / competitive /  laissez-faire / invisible-hand economics.
-
 Entities in such an economy become overspecialized and oversensitive. They can't adapt. As soon as their set of assumptions their business model is built on fall apart, so do they, also bringing down the networks with a domino effect that propagates to take out their neighbors. Fully aware of this, they rent-seek and protect themselves with bureaucracy or even public sympathy.  
 
 So what is the solution? Entities in the market could become more aware of downside, and make themselves more adaptable. This involves investing in assets, perhaps intellectual or infrastructural, that don't immediately boost the bottom line but expand general robustness. 
 
-Just the _mindset_ that change is near and the static doesn't survive makes a difference. Pop the bubble of assumptions bottom-up.
+Just the _mindset_ that change is near and the static doesn't survive makes a difference. Pop the bubble of assumptions.
 
 
