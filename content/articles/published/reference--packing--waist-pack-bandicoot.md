@@ -11,8 +11,8 @@ This loadout is tailored for sub-/urban (on-grid) defense of life; thus, it excl
 
 Crafted with the goal of being *self-contained & stand-alone*, this system does not require that the components be broken up and distributed between belt, cargo pockets, or other containers. Instead, it is grab-and-go, offering greater situational versatility and lower mental overhead. 
 
-No dress code is required of the user: the system is not dependent on a belt, a baggy shirt, deep pockets, and so on. This is in great contrast to many of the systems out there. 
-
+No dress code is required of the user: the system is not dependent on a belt, a baggy shirt, deep pockets, and so on. This is in great contrast to many of the systems out there. At the same time, the slim profile of the waist pack benefits from said "traditional" on-body concealment techniques.
+ 
 Additionally, the components as well and the pack itself were chosen to be as compact and lightweight as possible. Although this certainly limits capability, the system is nimble & discreet enough to carry on a daily basis without much inconvenience or boisterousness. 
 
 # Contents
@@ -23,7 +23,7 @@ In the main compartment:
 
 - ruger LCP .380, burnt bronze custom cerakoted, 6+1 rounds, w/ extra magazine, in a desantis pocket holster, suspended in positive draw position with ziptie through inner loop attachment, tensioned with rubber band
 - <span style="text-decoration: line-through;">havalon piranta replacable blade knife w/ extras</span> gerber 600 USA-made folding knife 
-- wescott titanium sewing scissors, 2.5"
+- <span style="text-decoration: line-through;">wescott titanium sewing scissors, 2.5"</span>
 - folomov 18650S 3.9", ultralight (50g), 900 lumen, USB rechargeable flashlight w/ extra 18650 battery
 - niteize flashlight headband (holds folomov)
 - scripto lighter
@@ -40,5 +40,12 @@ Because of the visibility of the weapon, I avoid putting items that are used dai
 
 In inner facing belt compartment, I keep a level 0 IFAK (a reduced, lean version of the [level 1](/level-1-first-aid-kit.html)). This is kept isolated for quick and deliberate accessibility in the face of emergency: there is no interference with other components to fumble with. 
 
-Edits: 
-- replaced the sharp, delicate, limited use havalon piranta with the full-sized gerber 600 for improved utility and versatility choice 
+## Modifications
+
+Like any system in service, the waist pack undergoes continuous trial and error and iterative revision. 
+  
+The following edits have been made since the
+ original posting:
+
+- replaced the sharp, delicate, limited use havalon piranta with the full-sized gerber 600 (improved utility and versatility)
+- deleted the titanium sewing scissors in favor of the built-in scissors of leatherman micra (removed non-critical redundancy)
