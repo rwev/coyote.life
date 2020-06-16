@@ -34,3 +34,9 @@ Many empirically-proven flaws in human judgement and decision making arise from 
 
 > "The heart is deceitful above all things, and desperately sick; who can understand it?" - <strong>Jeremiah 17:9</strong><br><br>
 > "The gullible believe anything they're told; the prudent sift and weigh every word... The wise watch their steps and avoid evil; fools are headstrong and reckless... Foolish dreamers live in a world of illusion; wise realists plant their feet on the ground... A sound mind makes for a robust body, but runaway emotions corrode the bones." - <strong>Proverbs 14</strong>
+
+My friend Alden illustrates healthy roles for logic and emotions in navigating the openendedness of life with an analogy from orienteering: let logic be your map, and emotions your compass. 
+
+Without logic, one doesn't understand the lay of the terrain around them. Regardless of the direction they travel, they are limited to line of sight and incomplete understanding of the proximate. They can't see what lies beyond obstructions or around the next bend or over the next ridge; they overlook passable routes and lead themselves to dead ends. 
+
+However, with a map of rationality, one can navigate with prudence and wisdom, think ahead with awareness of information that transcends their immediate circumstance. Then, map in hand, emotions, gut instinct, and the subconscious, experiential System 1 act as a compass, to aid in resolving decisions under optionality: choosing one promising route over another, when the further use of logic becomes unclear. 

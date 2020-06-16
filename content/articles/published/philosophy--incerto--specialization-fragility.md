@@ -1,8 +1,6 @@
-Title: Fragility is Specialization
+Title: Specialization is Fragility
 Category: philosophy/incerto
 Status: published
-
-<!-- TODO the cockroach & the panda -->
 
 The modern, global economy is powered by specialization: the levels of efficiency it offers enables cheap, mass production of our day. 
 
@@ -16,10 +14,16 @@ In this condition, the entity optimizes. Assumptions and optimization are positi
 
 Specialization is naive: it assumes a world of constants, while failing to preparing for the unknown, or something even acknowledging it. With it comes fragility; entities that perform only in the space of the known, the static, the predictable are over-invested in their environment and unable to adapt when  assumptions become untrue. 
 
-Entities in such an economy become overspecialized and oversensitive. They can't adapt. As soon as their set of assumptions their business model is built on fall apart, so do they, also bringing down the networks with a domino effect that propagates to take out their neighbors. Fully aware of this, they rent-seek and protect themselves with bureaucracy or even public sympathy.  
+Entities in such an economy become overspecialized and oversensitive. They can't adapt. As soon as their set of assumptions their model is built on fall apart, so do they, also bringing down the networks with a domino effect that propagates to take out their neighbors. Fully aware of this, they rent-seek and protect themselves with bureaucracy or even public sympathy.  
 
-So what is the solution? Entities in the market could become more aware of downside, and make themselves more adaptable. This involves investing in assets, perhaps intellectual or infrastructural, that don't immediately boost the bottom line but expand general robustness. 
+My friend Ben shared the analogy from nature. Consider the panda: they eat one specific thing, bamboo, and only exist in full health within very narrow climate and habitat tolerances. In today's dynamic world, populations struggle as their delicate forests get cut down and global temperatures rise. Humans have intervened to assist them, an innocent but incapable species. Their likeness even forms the emblem of the World Wildlife Foundation (WWF), perhaps the most well-known international nature conservation group, which slows the inevitable demise of of wild pandas. 
 
-Just the _mindset_ that change is near and the static doesn't survive makes a difference. Pop the bubble of assumptions.
+Now consider the cockroach: they thrive around the globe, infesting the dwellings of encroaching humans, perhaps even benefiting from our presence and influence. In Armageddon, I'd wager cockroaches would be among the few survivors. Their dietary and environmental tolerances are extreme. Pandas are fragile and static; cockroaches are versatile and robust, they adapt and overcome, and may even be antifragile, gaining from the stressors and stimulation of change. 
+
+So what is the solution? Be the cockroach. 
+
+Entities could become more aware of downside, and make themselves more adaptable. This involves investing in assets, perhaps intellectual or infrastructural, that don't immediately boost the bottom line but expand general robustness and optionality, even if, at first glance, it appears to be a redundancy.
+
+Just the _mindset_ that change is near and the static or unprepared don't survive makes a difference. Pop the bubble of assumptions.
 
 
