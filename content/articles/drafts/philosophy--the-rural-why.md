@@ -87,3 +87,5 @@ Time is the most valuable resource. And away from the hurry and hustle of urban 
 The pursuit for more, more, more and the excess discounts the value of time, _time discounting_.
 
 > A bird in the hand is better than ten on the tree <p class="annotation">Levantine proverb</p>
+
+Edward Abbey, whose classic book from 1968, “Desert Solitaire,” plays out against that remarkable terrain. “Wilderness is not a luxury but a necessity of the human spirit, and as vital to our lives as water and good bread, “ he wrote. “A civilization which destroys what little remains of the wild, the spare, the original, is cutting itself off from its origins and betraying the principle of civilization itself.”
