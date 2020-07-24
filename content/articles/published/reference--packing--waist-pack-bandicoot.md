@@ -3,11 +3,11 @@ Category: reference
 Gallery: {photo}waist-pack
 Status: published
 
-Carrying a loaded [Helikon-Tex "Bandicoot"](https://www.helikon-tex.us/bandicoot-waist-pack-cordura.html) waist pack for a reasonable level of preparedness in a compact package.
+Carrying a compact [Helikon-Tex "Bandicoot"](https://www.helikon-tex.us/bandicoot-waist-pack-cordura.html) waist pack for dynamic preparedness in a city environment.
 
 # Philosophy 
 
-Crafted with the goal of being *self-contained & stand-alone*, this system is  *grab-and-go* and offers greater situational versatility and lower mental overhead than other every-day-carry (EDC) systems, many of which are dependent on the  distribution (scatter) of items among different areas of the body, clothing items, or accessories.
+Crafted with the goal of being *self-contained & stand-alone*, this system is  *grab-and-go* and offers greater situational versatility and lower mental overhead than other every-day-carry (EDC) systems, many of which are dependent on the  distribution (scatter) of items among d:ifferent areas of the body, clothing items, or accessories.
 
 Because waist pack carry functions independently of a belt, a baggy shirt, or deep pockets, this system is modular and integrated independently of the outfit. No dress code, pre-planning, or continuous transfer (and subsequent loss & disorganization) of items between disparate containers is required of the user. Modularity reduces complication and moving parts, and thus  increases the likelihood that components are where you expect them in a critical moment. 
 
