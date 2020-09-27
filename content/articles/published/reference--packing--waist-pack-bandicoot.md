@@ -38,6 +38,7 @@ Because of the visibility of the weapon, I avoid putting items that are used dai
 - zipties, ziplock bags, flat-folded duct tape
 - plastic eating utensils (flexible and lightweight, USA made, originally from Chipotle)
 - hand sanitizer gel pen
+- reflective signaling panel
 - ear plugs
 
 In inner facing belt compartment, I keep a level 0 IFAK (a reduced, lean version of the [level 1](/level-1-first-aid-kit.html)). This is kept isolated for quick and deliberate accessibility in the face of emergency: there is no interference with other components to fumble with. 

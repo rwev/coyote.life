@@ -19,7 +19,7 @@ Contrast this to the hip or leg mounted system, which can easily become blocked 
 - armytek wizard pro v3 XHP50 flashlight & extra 18650 lithium battery
 - sog seal pup 5" fixed blade knife
 - soto pocket torch + extra (redundant) scripto lighter insert
-- silva compass
+- <span style="text-decoration: line-through;">silva compass</span> garmin inreach
 - aquamira frontier water filter & straw
 - fox 40 whistle & lanyard
 - leatherman micra
