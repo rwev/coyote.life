@@ -2,15 +2,14 @@ Title: Specialization is Fragility
 Category: philosophy/incerto
 Status: published
 
-Specialization is naive: it assumes a world of knowns and fails to prepare for what is to come. 
+Specialization naively assumes a world of knowns and fails to prepare for what is to come. 
 
-With it comes fragility: entities that perform only in the space of the constant, the static, the predictable are over-invested in their environment and unable to adapt when assumptions become untrue. They fall apart with their assumptions. 
+Specialization itself means an "adaptation to a specific function or environment". The specialized are very good at performing under predictable, replicable, constant (or [ergodic](https://en.wikipedia.org/wiki/Ergodicity)) conditions. Consider an assembly line: for a station worker to contribute to the line at an industrial level of efficiency, the acceptable inputs and outputs are strictly controlled - any deviations from expected state break the chain of operations catastrophically. 
+                                                                                     
+Specialized entities assume a continuation of the static in the current environment, or simply that things will always be how they are. Assumptions enable optimization. The more assumptions, and the stronger they are, the greater are yields of optimization. Here the neglect of redundancy and
+ preparedness begins: unless an asset increases profit to the specific task or is justified within the now-reduced realm of possibility, it is written off as waste, an anti-necessity to be trimmed away. 
 
-Specialization implies that an entity is very good at performing in a static environment with a set of predictable, replicable factors that are either constant or [ergodic](https://en.wikipedia.org/wiki/Ergodicity). Consider an assembly line: for a worker to contribute
- her operation to the line an industrial level of efficiency, the acceptable inputs and outputs are strictly controlled. 
-  
-Assumptions and optimization are positively correlated: the more assumptions that can be made, and the stronger they are, greater are yields of optimization. Here the neglect of the preparedness and redundancy begins: unless a tangible or intangible asset increases profit to the task or is
- justified within the now-reduced realm of possibility, it is written off as waste, an anti-necessity to be trimmed away. A specialized entity is built for what it will experience, assumed to be known, and as such only invests in its ability to operate within this framework of assumptions. 
+A specialized entity is built for what it will experience, assumed to be known, and as such only invests in its ability to operate within this framework of assumptions. They are over-invested in their immediate context. Unable to adapt when assumptions become untrue, the specialized are fragile, falling apart with their assumptions. 
 
  > As societies gain in complexity, with more and more “cutting edge” sophistication in them, and more and more specialization, they become increasingly vulnerable to collapse... you want to be Phoenix, or possibly Hydra. Otherwise, the sword of Damocles will get you. 
 

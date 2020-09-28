@@ -12,6 +12,12 @@ Hunting is primitive & natural, and undeniable part of our human heritage, from 
 
 My relationship with hunting is far from that of those who demolished the legionary bison herds in the nineteenth century, or those who continue to pay top dollar to kill exotic species on reservations alongside tourists. 
 
+
+> All the other stuff, the love, the democracy, the floundering into lust, is a sort of by-play. The essential American soul is hard, isolate, stoic, and a killer. It has never yet melted. <p class="annotation">D.H. Lawrence</p>
+>
+>> Wilderness is not a luxury but a necessity of the human spirit, and as vital to our lives as water and good bread... a civilization which destroys what little remains of the wild, the spare
+ , the original, is cutting itself off from its origins and betraying the principle of civilization itself. <p class="annotation">Desert Solitaire, Edward Abbey</p>
+
 One of the many costs of civilization is the separation of human individuals from the mess -- the blood, the sweat, the death -- that maintaining their existence entails. 
 
 *To hunt is to confront in full force the blood and death that is required to sustain a life. Hunting offers deep connection and requires full recognition of our mortal reality.*

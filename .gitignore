@@ -7,3 +7,5 @@
 *.iml
 *.xml
 /.idea
+/evix.dat
+**/.DS_Store
