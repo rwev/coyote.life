@@ -3,6 +3,8 @@ Category: reference/packing
 Gallery: {photo}hunt-gear-late-season
 Status: published 
 
+<!-- TODO update for 2020 season -->
+
 Packing list for late-season rifle hunting in the mountain west.
 
 # clothing

@@ -3,6 +3,8 @@ Category: reference
 Gallery: {photo}waist-pack
 Status: published
 
+<!-- TODO add GLIZZE variant
+
 Carrying a compact [Helikon-Tex "Bandicoot"](https://www.helikon-tex.us/bandicoot-waist-pack-cordura.html) waist pack for dynamic preparedness in a city environment.
 
 # Philosophy 

@@ -3,6 +3,8 @@ Category: reference/packing
 Gallery: {photo}chest-pack
 Status: published
 
+<!-- TODO revise: FNX-45 tactical replaces KELTEC PMR30, remove compass, add Garmin InReach, Tops Brakimo replaces SOG Seal Pup
+
 A loaded [Helikon-Tex "Numbat"](https://www.helikon-tex.us/chest-pack-numbat.html) chest pack for the backcountry.
 
 The philosophy of the chest pack system is similar to that of the [waist pack](/waist-pack-for-sub-urban-edc.html), designed for modularity and context-independence.

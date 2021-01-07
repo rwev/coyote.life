@@ -2,6 +2,8 @@ Title: Questioning American Home Ownership
 Category: philosophy/wealth
 Status: published
 
+<!-- TODO add fakeness of debt, taxpayer subsidies of housing system, and printing of currency to buoy assets https://www.wsj.com/articles/how-american-mortgage-machine-works-11609675200?mod=hp_lista_pos1 --> 
+
 Gullible to the empty promise of bank marketing, in which one "rewards" themselves with a large financed purchase, a chunk of debt that they've "earned", many are over-eager to take out lines of credit offered them. 
 
 The classic trap is housing. Something "I'm tired of paying rent; it's just money down the drain" and its derivatives are the ubiquitous words on the street, perhaps manufactured by the finance and banking cartel. So people take out mortgage credit when they _qualify_ but regardless of whether or not they can afford it (although affordability is relative; many have wildly different ideas of what this means). It's "investing in the long term", they tell themselves. 
