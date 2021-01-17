@@ -67,6 +67,9 @@ Here's the list of contents:
 - physician's care individually wrapped tablets: aspirin, non-aspirin (acetaminophen), ibuprofen, antacid (3-4 each)
 - chlor-floc water treatment tablets (2-4)
 
+<!-- TODO q-tips, tweezers, modification according to use (e.g. extra burn packets for motorcycle kit), moleskin for hiking, brush for motorcycling wounds with debris), remove bandaids, full versaility with telfa etc -->
+
+
 Edits, added since original post:
 
 - waterproof adhesive transparent dressing / bandage 

@@ -1,7 +1,6 @@
 Title: Dual Sport ADV Motorcycle Packing List
 Category: reference/packing
 Gallery: {photo}motorcycle-tool-kit
-Status: published
 
 Gear list for specific overnight motorcycle trips. To be considered in addition to normal camping / travel packing lists.
 

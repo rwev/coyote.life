@@ -15,10 +15,12 @@ Packaged in an intentionally puncture-proof, lightweight, slim, transparent, and
 
 - **gear aid tenacious tape**, clear & black: for general fabric repairs
 - **tear-aid type-A patch**: for waterproof repairs to canvas, nylon, rubber, plastic like materials
+- **gorilla tape**, flat-folded (not pictured): versatile adhesive option for further diversification
 - **wescott titanium sewing scissors**, 2.5": while not necessary, clean cuts significantly improve the quality and longevity of repairs, particularly with patches
 - **UL type 21 4" earth-tone zipties**, trimmed to fit: use for fast, strong stitching and attachment
 - **power-pro micro-filament spectra fiber braided line**, 30# test, 1+ yard: designed for fishing, extremely strong, abrasion resistant compared to standard thread
 - **needles**, assorted sizes 
+
 
 
 

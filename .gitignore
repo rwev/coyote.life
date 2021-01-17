@@ -4,4 +4,8 @@
 /venv
 /public
 /mesa
+*.iml
+*.xml
+/.idea
 /evix.dat
+**/.DS_Store
