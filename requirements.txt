@@ -32,7 +32,7 @@ keyrings.alt==3.0
 language-selector==0.1
 lesscpy==0.13.0
 louis==3.5.0
-lxml==4.4.2
+lxml==4.6.2
 Markdown==3.1.1
 MarkupSafe==1.1.1
 MouseInfo==0.1.3
