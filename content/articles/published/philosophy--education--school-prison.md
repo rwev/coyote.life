@@ -1,4 +1,4 @@
-Title: Schools, a Modern Prison System
+Title: Of Schools and Prisons
 Category: philosophy/education
 Status: published
 

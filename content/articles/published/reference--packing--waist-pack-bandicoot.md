@@ -46,11 +46,7 @@ In inner facing belt compartment, I keep a level 0 IFAK (a reduced, lean version
 ## Modifications
 
 Like any system in service, the waist pack undergoes continuous trial and error and iterative revision. 
-  
-The following edits have been made since the
- original posting:
 
 - replaced the sharp, delicate, limited use havalon piranta with the full-sized gerber 600 (improved utility and versatility)
 - deleted the titanium sewing scissors in favor of the built-in scissors of leatherman micra (removed non-critical redundancy)
-
-<!-- TODO add GLIZZE variant -->
+- for heavier duty, replace main organizer panel and LCP holster with a [pistol insert](https://www.helikon-tex.us/pistol-holder-insert.html) for a Glock 19X (flashlight, leatherman, lighter move into front zipper)

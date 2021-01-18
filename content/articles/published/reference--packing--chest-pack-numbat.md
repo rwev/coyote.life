@@ -28,6 +28,9 @@ Contrast this to the hip or leg mounted system, which can easily become blocked 
 - smith's PP1 sharpener
 - [level 0 first aid](/level-1-first-aid-kit.html)
 
-*Total weight: 3 lb 8 oz*
+## Updates
 
-<!-- TODO revise: FNX-45 tactical replaces KELTEC PMR30, remove compass, add Garmin InReach, Tops Brakimo replaces SOG Seal Pup --> 
+- added garmin inreach: emergency personal locator beacon (PLB), satellite SMS messaging, and GPS navigation (removed compass)
+- options for heavier duty: FNX-45 Tactical (.45 ACP) replaces Keltec PMR30; TOPS Brakimo Bushcraft replaces for SOG seal pup (at the expense of weight). 
+
+*Total weight: 3 lb 8 oz* (more for heavier options)
