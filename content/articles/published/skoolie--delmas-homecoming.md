@@ -1,8 +1,7 @@
 Title: Back to Skool: Delma's Homecoming
 Category: skoolie
-Gallery: {photo}skoolie-initial
+Gallery: {photo}skoolie-start
 Status: published
-
 
 We took delivery of our long-converted International School Bus, a "skoolie", on Sunday 06/24/2019.
 

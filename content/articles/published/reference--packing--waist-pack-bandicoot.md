@@ -3,21 +3,23 @@ Category: reference
 Gallery: {photo}waist-pack
 Status: published
 
-Carrying a loaded [Helikon-Tex "Bandicoot"](https://www.helikon-tex.us/bandicoot-waist-pack-cordura.html) waist pack for a reasonable level of preparedness in a compact package.
+Carrying a compact [Helikon-Tex "Bandicoot"](https://www.helikon-tex.us/bandicoot-waist-pack-cordura.html) waist pack for dynamic preparedness in a city environment.
 
 # Philosophy 
 
-This loadout is tailored for sub-/urban (on-grid) defense of life; thus, it excludes some heavier duty tools and gear better suited for the backcountry.
+Crafted with the goal of being *self-contained & stand-alone*, this system is  *grab-and-go* and offers greater situational versatility and lower mental overhead than other every-day-carry (EDC) systems, many of which are dependent on the  distribution (scatter) of items among d:ifferent areas of the body, clothing items, or accessories.
 
-Crafted with the goal of being *self-contained & stand-alone*, this system does not require that the components be broken up and distributed between belt, cargo pockets, or other containers. Instead, it is grab-and-go, offering greater situational versatility and lower mental overhead. 
+Because waist pack carry functions independently of a belt, a baggy shirt, or deep pockets, this system is modular and integrated independently of the outfit. No dress code, pre-planning, or continuous transfer (and subsequent loss & disorganization) of items between disparate containers is required of the user. Modularity reduces complication and moving parts, and thus  increases the likelihood that components are where you expect them in a critical moment. 
 
-No dress code is required of the user: the system is not dependent on a belt, a baggy shirt, deep pockets, and so on. This is in great contrast to many of the systems out there. At the same time, the slim profile of the waist pack benefits from said "traditional" on-body concealment techniques.
- 
-Additionally, the components as well and the pack itself were chosen to be as compact and lightweight as possible. Although this certainly limits capability, the system is nimble & discreet enough to carry on a daily basis without much inconvenience or boisterousness. 
+At same time the slim profile of the waist pack stands to benefit from said "traditional" on-body concealment techniques: a long shirt tail is not a requirement, but an advantage. 
+
+The contents and the pack itself were chosen to be as compact and lightweight as possible. Although this certainly limits capability, the system is nimble & discreet enough to carry on a daily basis without much inconvenience. 
+
+This loadout is tailored for sub-/urban (on-grid) preparation & defense of life; it excludes some heavier duty gear better suited for the more extreme, off-grid environments.
 
 # Contents
 
-This list is not static; rather, it is meant to give a general idea of the system components. The system goes through constant trials and is adapted to new environments and requirements. 
+This list is not static but is meant to give a general idea of the system components. The system undergoes constant trials and adaptation to new environments and requirements. 
 
 In the main compartment:
 
@@ -29,13 +31,14 @@ In the main compartment:
 - scripto lighter
 - leatherman micra multitool
 
-Because of the visibility of the weapon, I avoid putting items that are used daily or otherwise regularly accessed  in the main compartment. Instead, I keep miscellaneous items in the outer pocket, such as:
+Because of the visibility of the weapon, I avoid putting items that are used daily or otherwise regularly accessed  in the main compartment. Instead, I keep miscellaneous routine items in the outermost pocket, such as:
 
 - notepad & pen
 - cell phone / wallet / keys
-- zipties & ziplocks
+- zipties, ziplock bags, flat-folded duct tape
 - plastic eating utensils (flexible and lightweight, USA made, originally from Chipotle)
 - hand sanitizer gel pen
+- reflective signaling panel
 - ear plugs
 
 In inner facing belt compartment, I keep a level 0 IFAK (a reduced, lean version of the [level 1](/level-1-first-aid-kit.html)). This is kept isolated for quick and deliberate accessibility in the face of emergency: there is no interference with other components to fumble with. 
@@ -49,3 +52,5 @@ The following edits have been made since the
 
 - replaced the sharp, delicate, limited use havalon piranta with the full-sized gerber 600 (improved utility and versatility)
 - deleted the titanium sewing scissors in favor of the built-in scissors of leatherman micra (removed non-critical redundancy)
+
+<!-- TODO add GLIZZE variant -->
