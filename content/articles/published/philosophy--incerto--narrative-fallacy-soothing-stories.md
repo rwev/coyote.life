@@ -1,18 +1,19 @@
-Title: Beware the Soothing Story Category: philosophy Status: published
+Title: Beware the Soothing Story
 Category: incerto
+Status: published
 
 Storytelling, as human pastime, intends to braid chronological events or related facts into a sequence comprehensible and understandable. 
 
 With the advantage of hindsight, we imbue a sense of purpose and meaning to events, even though they had no such perceivable meaning at the time. This storytelling offers us a fabricated sense of control, and deceitful grasp of reality.
 
-## "History-making in hindsight"
+## History-Making in Hindsight
 
 History is often the target of bending perception to build up a narrative to understand the world or to believe there is more too our experience than randomness and chaos, and that we can control the outcomes. The events that we can fit into a convenient explanation are those more often recalled as significant. 
 
 > Narrativity can viciously affect the remembrance of past events as follows: we will tend to more easily remember those facts from our past that fit a narrative, while we tend to neglect others that do not appear to play a causal role in the narrative... this simple inability to remember not the true sequence of events but a reconstructed one will make
 history appear in hindsight to be far more explainable that it actually was - or is...
 
-If we come down from our hill of hindsight, an honest appraisal of historical events from _their point in time_, shows us the reality of the situation: what seems obvious in hindsight was not obvious to even the keenest, most anticipatory observers. Hindsight offers an arrogant perch
+If we come down from our hill of hindsight, an honest appraisal of historical events from _their point in time_, shows us the reality of the situation: what seems obvious in hindsight was not obvious to even the keenest, most anticipatory realtime observers. Hindsight offers an arrogant perch 
 from which we judge our ancestors for sleeping on duty or missing what appears to us to right in front of their eyes. The reality of the present moment is often far more complex. 
 
 > History is opaque. You see what comes out, not the script that produces events, the generator of history. There is a fundamental incompleteness in your grasp of such events, since you do not see what's inside the box, how the mechanisms work... the minds of the gods cannot be read just by 
@@ -27,7 +28,7 @@ When we teach and think about history,
 
 > We like stories, like to summarize, and we like to simplify, i.e. to reduce the dimensions of matters... The fallacy is associated with our vulnerability to over-interpretation and our predilection for compact stories over raw truths. It severely distorts our mental representation of the world.
 
-To avoid biased interpretations of past events, we must remain open to _all_ the facts, not just those which offer cohesion. Further, we should acknowledge that we have limited access to information and thus hindered ability to understand cause and effect.
+To avoid biased interpretations of past events, we must remain open to _all_ the facts, not just those which offer cohesion. Further, we should acknowledge that we have limited access to information and thus a hindered ability to understand cause and effect.
 
 ## It's in Our Blood
 
@@ -57,5 +58,7 @@ We must be willing to accept the disarray of our reality and reallocate our hope
 > God, grant me the serenity to accept the things I cannot change,
 courage to change the things I can,
 and wisdom to know the difference. <p class="annotation">Reinhold Niebuhr (1892–1971)</p> 
+
+All quotes belong to _The Black Swan_ by Nassim Taleb.
 
 _Related: confirmation bias, epilogism, narrative fallacy, retrospective distortion, scorn of the abstract_
