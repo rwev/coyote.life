@@ -1,5 +1,5 @@
 Title: Level 1 First Aid Kit 
-Category: reference
+Category: system
 Gallery: {photo}ifak-level-1
 Status: published
 

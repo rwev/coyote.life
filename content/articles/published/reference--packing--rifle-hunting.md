@@ -1,61 +1,52 @@
 Title: Late-Season Rifle Hunt Packing List
-Category: reference/packing
+Category: system
 Gallery: {photo}hunt-gear-late-season
 Status: published 
 
-<!-- TODO update for 2020 season -->
+<!-- TODO break out backpack MR Selway 60 into own post, revolver sidearm -->
 
-Packing list for late-season rifle hunting in the mountain west.
+Packing list for late-season rifle hunting in the Mountain West.
 
 # clothing
 
 ## outer / shell
-- camouflage shell jacket and pants set (First Lite Catalyst [Cipher] or Corrugate [Fusion])
-- balaclava / neck gaiter (First Lite Tundra cold weather balaclava)
-- gloves (First Lite Alpine cold weather)
-- waterproof boots (Redhead Gore-tex)
-- gaiters (First Lite Brambler [Cipher] or Traverse [Fusion])
+- camouflage shell jacket and pants set (first lite catalyst [cipher], or corrugate [fusion])
+- balaclava / neck gaiter (first lite tundra cold weather, or wind river balaclava)
+- gloves (first lite alpine cold weather, or outdoor research poseidon intermediate gore-tex flight gloves)
+- waterproof high-top boots (mcrae NSN-8430-01-593-6074 goretex vibram combat boots)
+- gaiters (first lite brambler [cipher] or traverse [fusion])
   
 ## layering  
-- base layers (merino wool long johns, sweaters)
-- insulation layers (Eddie Bauer down jackets and fleece sweaters, Redington wading fleece liners)
-- long, thick wool / synthetic socks (First Lite zero cold weather, Browning blend)
-- extra hand and neck layers (fleece liners) 
+- base layers (first lite kiln merino boot cut bottoms, hoody)
+- insulation layers (additional wool johns, sweaters)
+- long, thick wool / synthetic socks (first lite zero cold weather)
 
 # gear 
-- trekking poles (carbon) w/ shooting stick lashing (NiteIze gear tie)
-- binocular chest harness (Alaska Guide Creations Classic Max [Fusion]) containing
-    - binoculars (Leupold BX-4 Pro Guide HD 12x50mm [First Lite Fusion] or Leupold BX-2 Alpine 10x42mm) 
-    - wind detector (Dead Down Wind)
-    - lens pen (Leupold)
-    - microfiber cloth
-    - hemostatic gauze (Quik Clot Combat Gauze)
-    - flashlight / headlamp (NiteIze strap) w/ batteries
-    - survival essentials (water purification tablets, lighter)
-    - kill knife w/ replaceable blades (Havalon Piranta blaze orange w/ 3 blades)
+- trekking poles (carbon)
+- binocular chest harness (alaska guide creations [AGC] classic max [fusion]) containing
+    - binoculars (leupold BX-4 pro guide HD 12x50mm [first lite fusion] or leupold BX-2 alpine 10x42mm) 
+    - wind detector (dead down wind)
+    - microfiber cloth / lens pen
+    - skinning knife w/ replaceable blades (havalon piranta, blaze orange, 3 blades)
     - license, tags with zipties 
-- backpack (medium to large size w/ frame)
-    - hand, toe warmers
-    - foam sitting pad 
-    - thermos w/ hot drink
-    - snacks (trail mix, jerky, sandwiches, fruit)
-    - extra insulation layers
-    - rain gear
-    - full first aid kit
-    - water storage bag (Hydrapak)
+- [wilderness chest pack](https://coyote.life/wilderness-chest-pack.html)
+- mystery ranch selway 60 (load-bearing, overload feature)
+    - foam sitting pad
+    - [helikon-tex swagman roll](https://www.helikon-tex.us/swagman-roll-poncho.html) (blanket, poncho)
+    - [level 1 first aid kit](https://coyote.life/level-1-first-aid-kit.html)
     - ultralight stove for meal / drink heating 
-    - kill kit
+    - hydration, water transportation, purification system
+    - kill kit continued
         - game bags 
         - rope / paracord (550 blaze orange)
         - flagging material
         
 # weapons
-- hunting rifle (Remington 700 7MM MAG / Ruger American .308 WIN)
+- hunting rifle (remington 700 7mm rem mag)
     - two-point sling
     - scope cover(s)
-    - magazine (rotary) 
-    - extra ammunition (Federal Premium Berger Hybrid Hunter, 168 grain)
-- sidearm (S&W 629 4" .44 REM MAG)
+    - extra ammunition (federal premium berger hybrid hunter, 168 grain)
+- sidearm (S&W 629 4" .44 rem mag)
     - galco belt holster
     - barsony double speedloader pouch
     - HK Speedloaders x 2
@@ -73,4 +64,4 @@ Packing list for late-season rifle hunting in the mountain west.
 - first aid kit
 - emergency stove and gas 
 - hand winch / come-along
-- cooler w/ hot food / drink
+- cooler, thermos w/ hot food / drink

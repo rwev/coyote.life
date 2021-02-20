@@ -1,5 +1,5 @@
 Title: Field Gear Repair Kit
-Category: reference
+Category: system
 Gallery: {photo}field-gear-repair-kit
 Status: published
 

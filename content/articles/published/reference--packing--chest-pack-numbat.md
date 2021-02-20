@@ -1,5 +1,5 @@
 Title: Wilderness Chest Pack
-Category: reference/packing
+Category: system
 Gallery: {photo}chest-pack
 Status: published
 

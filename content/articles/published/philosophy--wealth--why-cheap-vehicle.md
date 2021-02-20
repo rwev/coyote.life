@@ -3,6 +3,8 @@ Category: philosophy/wealth
 Gallery: {photo}isuzu-rodeo
 Status: published
 
+<!-- TODO add ledger -->
+
 Why should _you_ should drive an old, cheap vehicle, colloquially known as "rust-buckets", "rattle-traps", and "ol 'beaters"? Freedom.
 
 There are two dimensions to freedom here, closely related: _monetary_ and _material_. 
