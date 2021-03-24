@@ -10,7 +10,7 @@ Specialized entities assume a continuation of the static in the current environm
  preparedness begins: unless an asset increases profit to the specific task or is justified within the now-reduced realm of possibility, it is written off as waste, an anti-necessity to be trimmed away. 
 
 A specialized entity is built for what it will experience, assumed to be known, and as such only invests in its ability to operate within this framework of assumptions. They are over-invested in their immediate context. Unable to adapt when assumptions become untrue, the specialized are fragile, falling apart with their assumptions. 
-
+__
  > As societies gain in complexity, with more and more “cutting edge” sophistication in them, and more and more specialization, they become increasingly vulnerable to collapse... you want to be Phoenix, or possibly Hydra. Otherwise, the sword of Damocles will get you. 
 
 In the short term, such a specialized configuration is efficient when operating under the regime it was optimized for. There are fewer layers of redundancy or resources reserved for unknown stress events. 

@@ -1,5 +1,5 @@
 Title: Beware the Soothing Story 
-Category: incerto 
+Category: philosophy/incerto 
 Status: published
 
 Storytelling, as human pastime, intends to braid chronological events or related facts into a sequence comprehensible and understandable.
@@ -17,21 +17,17 @@ The pieces of data that fit into a narrative or exhibit shallow logical relation
 If we come down from our hill of hindsight, an honest appraisal of historical events from _their point in time_, shows us the reality of the situation: what seems obvious in hindsight was not obvious to even the keenest, most anticipatory realtime observers. Hindsight offers an arrogant perch 
 from which we judge our ancestors for sleeping on duty or missing what appears to us to have been right in front of their eyes. The reality of the present moment is often far more complex.
 
-> History is opaque. You see what comes out, not the script that produces events, the generator of history. There is a fundamental incompleteness in your grasp of such events, since you do not see what's inside the box, how the mechanisms work... the minds of the gods cannot be read just by witnessing their deeds.
-
 Take for example the "normie" educational experience from public school textbooks. The full breadth of history is refined and reduced down into a sequence of events, a series of logical explanations in which one event leads to the next, chapter into chapter, paragraph into paragraph. _X_ led to 
 _Y_, which led to _Z_, with arrows of cause and effect, on a coherent timeline making logical sense even to any student or reader. 
 This was applied, nonexclusively, to the presentation of the buildup to the second world war, its proceeding, and end. WWII, like many historical developments, is held as an obvious and predictable result of the input catalysts.
 
-In reality, things weren't that simple. I recently read _In the Garden of Beasts_ by Erik Larson, a historical non-fiction presenting the experiences of diplomats, politicians, public service-people, and their families living in Berlin as Hitler lead Germany into WWII. Larson deeply examines primary sources: the personal and official correspondance, journals, and diaries, which form an entirely different picture regarding the course of events and their predictability. Even the most intelligent, perceptive, and observant analysts, journalist, and politicians didn't expect WWII to develop and play the way it did. The difference in perception between present-sight and hindsight can be shocking. The book isn't the only account of this, _Berlin Diary: The Journal of a Foreign Correspondent, 1934-1941_ is another source.
+In reality, things weren't that simple. I recently read _In the Garden of Beasts_ by Erik Larson, a historical non-fiction presenting the experiences of diplomats, politicians, public service-people, and their families living in Berlin as Hitler lead Germany into WWII. Larson deeply examines primary sources: the personal and official correspondence, journals, and diaries, which form an entirely different picture regarding the course of events and their predictability. Even the most intelligent, perceptive, and observant analysts, journalist, and politicians didn't expect WWII to develop and play the way it did. The difference in perception between present-sight and hindsight can be shocking. The book isn't the only account of this, _Berlin Diary: The Journal of a Foreign Correspondent, 1934-1941_ is another source.
 
 When we teach and think about history,
 
 > We like stories, like to summarize, and we like to simplify, i.e. to reduce the dimensions of matters... The fallacy is associated with our vulnerability to over-interpretation and our predilection for compact stories over raw truths. It severely distorts our mental representation of the world.
 
-Much of the mainstream presentation of history is overly reductive and deterministic, and ignores the simple and consequential truths that hindsight is 20/20, and prediction is very difficult in realtime because the world is random and not beholden to us. But to admit so would make the content less interesting, transforming it effectively from a compelling storyline to a set of facts, with the exercise of interpretation left up to the reader.  
-
-> My biggest problem with the education system lies precisely in that it forces students to squeeze explanations out of  subject matters and _shames_ them for withholding judgement, for uttering the "I don't know."
+Much of the mainstream presentation of history is overly reductive and deterministic, and ignores the simple and consequential truths that hindsight is 20/20, and prediction is very difficult in realtime because the world is random and not beholden to us. But to admit so would make the content less interesting, transforming it effectively from a compelling storyline to a set of facts, with the exercise of interpretation left up to the reader.
 
 To avoid biased interpretations of past events, we must remain open to _all_ the facts, not just those which offer cohesion. Further, we should acknowledge that we have limited access to information and thus a hindered ability to understand cause and effect.
 
@@ -63,4 +59,4 @@ We must be willing to accept the disarray of our reality and reallocate our hope
 
 All quotes belong to _The Black Swan_ by Nassim Taleb.
 
-_Related: confirmation bias, epilogism, narrative fallacy, retrospective distortion, scorn of the abstract_
+_Related: confirmation bias, epilogism, narrative fallacy, retrospective distortion, scorn of the abstract, naive empiricism_ 
