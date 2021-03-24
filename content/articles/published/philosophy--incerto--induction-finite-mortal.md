@@ -13,11 +13,7 @@ However, it is impossible to glean _certain truth_ from _partial experience_. We
 This is the fundamental nature of induction:
 
 > Inductive reasoning is distinct from deductive reasoning. While, if the premises are correct, the conclusion of a deductive argument is _certain_, the truth of the conclusion of an inductive argument is _probable_, based upon the evidence given.
-    <p class="annotation">
-        <a href="<https://en.wikipedia.org/wiki/Inductive_reasoning">
-        Wikipedia
-        </a>
-    </p>
+    <p class="annotation"><a href="<https://en.wikipedia.org/wiki/Inductive_reasoning">Wikipedia</a></p>
 
 We have partial perspective, both over time and space, and therefore we are required to make assumptions of our data, our experience, our evidence. Much of what we "know" is actually just varying degrees of "probable."
 
