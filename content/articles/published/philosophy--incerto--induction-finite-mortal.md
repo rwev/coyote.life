@@ -1,6 +1,6 @@
 Title: The View of a Finite Mortal, Problems Evident
 Category: philosophy/incerto
-status:
+Status: published
 
 We are not God; we exist in incomplete presence and conscience.
 
