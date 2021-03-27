@@ -82,5 +82,6 @@ To avoid the fate of the turkey and death by data:
 - Keep an anti-library: focus on the _unread books_ and more generally _what you don't know_. Don't fixate on your knowledge and experience.
 - Recognize that the "very nature of randomness lies in its abstraction: the unknown unknowns."
 - Restrict flow of the modern data fire hose: consume confirmed and delayed information, not the sensationalized, push-notification type.
+- Value logic over statistics.
 
 All quotes belong to _The Black Swan_ by Nassim Taleb unless otherwise marked.
